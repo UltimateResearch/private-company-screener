@@ -1,0 +1,14 @@
+{
+  "name": "private-company-screener-pipeline",
+  "version": "1.1.0",
+  "description": "Free daily-refreshing consensus valuation screener for the most valuable private companies. Scrapes 5 live sources, recomputes the median (Claude shown alongside, not folded in), fails safe on blocked sources.",
+  "type": "module",
+  "scripts": {
+    "scrape": "node src/run.js",
+    "scrape:headed": "HEADLESS=false node src/run.js",
+    "serve": "npx --yes serve web"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}

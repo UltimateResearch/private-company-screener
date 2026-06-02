@@ -1,0 +1,45 @@
+name: Daily valuation refresh
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 11:00 UTC daily — adjust as you like
+  workflow_dispatch: {}      # manual "Run workflow" button
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: npm install
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape + reconcile
+        run: node src/run.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "valuation-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/companies.json data/history.json web/companies.json
+          git diff --cached --quiet || git commit -m "Daily refresh: $(date -u +%Y-%m-%d)"
+          git push
+
+      # Optional: publish web/ to GitHub Pages. Enable Pages (source: GitHub Actions) first.
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - uses: actions/deploy-pages@v4
