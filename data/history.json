@@ -293,5 +293,378 @@
       "Glean",
       "Cohere"
     ]
+  },
+  {
+    "date": "2026-06-02",
+    "changes": [
+      {
+        "company": "SpaceX",
+        "source": "yahoo",
+        "from": 1425,
+        "to": 1550
+      },
+      {
+        "company": "Anthropic",
+        "source": "yahoo",
+        "from": 965,
+        "to": 965.001
+      },
+      {
+        "company": "OpenAI",
+        "source": "yahoo",
+        "from": 840,
+        "to": 908.809
+      },
+      {
+        "company": "Stripe",
+        "source": "yahoo",
+        "from": 184.4,
+        "to": 175.62
+      },
+      {
+        "company": "Databricks",
+        "source": "yahoo",
+        "from": 138.45,
+        "to": 158.684
+      },
+      {
+        "company": "Anduril",
+        "source": "yahoo",
+        "from": 98.2,
+        "to": 100.988
+      },
+      {
+        "company": "Ripple",
+        "source": "yahoo",
+        "from": 18,
+        "to": 19.1
+      },
+      {
+        "company": "Ramp",
+        "source": "yahoo",
+        "from": 32.7,
+        "to": 32.822
+      },
+      {
+        "company": "Fanatics",
+        "source": "yahoo",
+        "from": 17.1,
+        "to": 17.093
+      },
+      {
+        "company": "Epic Games",
+        "source": "yahoo",
+        "from": 18,
+        "to": 15.12
+      },
+      {
+        "company": "Kalshi",
+        "source": "yahoo",
+        "from": 22,
+        "to": 23.76
+      },
+      {
+        "company": "Perplexity",
+        "source": "yahoo",
+        "from": 20.4,
+        "to": 19.889
+      },
+      {
+        "company": "Rippling",
+        "source": "yahoo",
+        "from": 19.4,
+        "to": 15.79
+      },
+      {
+        "company": "Kraken",
+        "source": "yahoo",
+        "from": 10.6,
+        "to": 11.739
+      },
+      {
+        "company": "Discord",
+        "source": "yahoo",
+        "from": 8.5,
+        "to": 8.529
+      },
+      {
+        "company": "Neuralink",
+        "source": "yahoo",
+        "from": 14.9,
+        "to": 14.865
+      },
+      {
+        "company": "Skild AI",
+        "source": "yahoo",
+        "from": 14,
+        "to": 14.083
+      },
+      {
+        "company": "Crusoe Energy",
+        "source": "yahoo",
+        "from": 14.6,
+        "to": 16.772
+      },
+      {
+        "company": "Shield AI",
+        "source": "yahoo",
+        "from": 12.7,
+        "to": 12.787
+      },
+      {
+        "company": "Polymarket",
+        "source": "yahoo",
+        "from": 12.3,
+        "to": 13.404
+      }
+    ],
+    "flags": [
+      {
+        "company": "SpaceX",
+        "dispersion": 87.1,
+        "vals": [
+          1550,
+          1600,
+          1750,
+          800,
+          400
+        ]
+      },
+      {
+        "company": "Anthropic",
+        "dispersion": 60.6,
+        "vals": [
+          965.001,
+          965,
+          965,
+          965,
+          380
+        ]
+      },
+      {
+        "company": "ByteDance",
+        "dispersion": 98,
+        "vals": [
+          79.4,
+          550,
+          480,
+          480
+        ]
+      },
+      {
+        "company": "Databricks",
+        "dispersion": 43.8,
+        "vals": [
+          158.684,
+          158.7,
+          134,
+          134,
+          100
+        ]
+      },
+      {
+        "company": "Ant Group",
+        "dispersion": 62,
+        "vals": [
+          79,
+          150
+        ]
+      },
+      {
+        "company": "Anduril",
+        "dispersion": 142.6,
+        "vals": [
+          100.988,
+          99.4,
+          61,
+          61,
+          14
+        ]
+      },
+      {
+        "company": "Canva",
+        "dispersion": 78.6,
+        "vals": [
+          42,
+          65,
+          42,
+          32
+        ]
+      },
+      {
+        "company": "Checkout.com",
+        "dispersion": 72.5,
+        "vals": [
+          40,
+          40,
+          11
+        ]
+      },
+      {
+        "company": "Ripple",
+        "dispersion": 70.7,
+        "vals": [
+          19.1,
+          19.1,
+          40,
+          40
+        ]
+      },
+      {
+        "company": "Fanatics",
+        "dispersion": 44.9,
+        "vals": [
+          17.093,
+          17.1,
+          31,
+          31,
+          31
+        ]
+      },
+      {
+        "company": "VAST Data",
+        "dispersion": 166.7,
+        "vals": [
+          30,
+          30,
+          80
+        ]
+      },
+      {
+        "company": "Anysphere (Cursor)",
+        "dispersion": 72,
+        "vals": [
+          50,
+          29,
+          29,
+          29.3
+        ]
+      },
+      {
+        "company": "Scale AI",
+        "dispersion": 207.9,
+        "vals": [
+          74.1,
+          29,
+          29,
+          13.8
+        ]
+      },
+      {
+        "company": "Yangtze Memory",
+        "dispersion": 64.8,
+        "vals": [
+          22.1,
+          37,
+          23
+        ]
+      },
+      {
+        "company": "Epic Games",
+        "dispersion": 74.2,
+        "vals": [
+          15.12,
+          32,
+          23,
+          22.5
+        ]
+      },
+      {
+        "company": "Kalshi",
+        "dispersion": 95.3,
+        "vals": [
+          23.76,
+          23.8,
+          22,
+          2
+        ]
+      },
+      {
+        "company": "Genesys",
+        "dispersion": 66.7,
+        "vals": [
+          30,
+          15
+        ]
+      },
+      {
+        "company": "Xiaohongshu (RedNote)",
+        "dispersion": 82.4,
+        "vals": [
+          17,
+          31,
+          17,
+          17
+        ]
+      },
+      {
+        "company": "Kraken",
+        "dispersion": 145.5,
+        "vals": [
+          11.739,
+          20,
+          2.92
+        ]
+      },
+      {
+        "company": "Discord",
+        "dispersion": 43.1,
+        "vals": [
+          8.529,
+          15,
+          15,
+          15
+        ]
+      },
+      {
+        "company": "Crusoe Energy",
+        "dispersion": 40.5,
+        "vals": [
+          16.772,
+          16.8,
+          10
+        ]
+      },
+      {
+        "company": "Shield AI",
+        "dispersion": 59,
+        "vals": [
+          12.787,
+          12.7,
+          5.3
+        ]
+      },
+      {
+        "company": "Thinking Machines Lab",
+        "dispersion": 333.3,
+        "vals": [
+          50,
+          12,
+          10
+        ]
+      },
+      {
+        "company": "JUUL Labs",
+        "dispersion": 104,
+        "vals": [
+          38,
+          12
+        ]
+      },
+      {
+        "company": "Moonshot AI",
+        "dispersion": 143.5,
+        "vals": [
+          18,
+          20,
+          4,
+          4.3
+        ]
+      }
+    ],
+    "noLive": [
+      "Glean",
+      "Cohere"
+    ]
   }
 ]

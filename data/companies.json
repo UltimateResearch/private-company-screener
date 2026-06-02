@@ -13,7 +13,7 @@
       "fund": "$9B",
       "round": "Feb 2026 · xAI merger",
       "notes": "Sources span $800B (Crunchbase) to $1.75T (multiples / S-1 target). IPO ~June; absorbed xAI (~$250B).",
-      "y": 1425,
+      "y": 1550,
       "p": 1600,
       "m": 1750,
       "c": 800,
@@ -21,17 +21,18 @@
       "claude": 1250,
       "addLabel": "$1.75T",
       "addSrc": "S-1",
-      "consensus": 1425,
+      "consensus": 1550,
       "low": 400,
       "high": 1750,
-      "dispersion": 94.7,
+      "dispersion": 87.1,
       "cnt": 5,
       "no": 1,
       "claudeSrc": "priced ~$1.25T post-xAI absorption; secondary ~$1.75T (Forge)",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -46,7 +47,7 @@
       "fund": "$56B",
       "round": "May 2026 · Series H",
       "notes": "Live trackers (Yahoo, PremierAlts, multiples, Crunchbase) all print the ~$965B Series H; CB Insights still lists the older $380B priced round.",
-      "y": 965,
+      "y": 965.001,
       "p": 965,
       "m": 965,
       "c": 965,
@@ -56,7 +57,7 @@
       "addSrc": null,
       "consensus": 965,
       "low": 380,
-      "high": 965,
+      "high": 965.001,
       "dispersion": 60.6,
       "cnt": 5,
       "no": 2,
@@ -68,9 +69,10 @@
         "url": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai"
       },
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -85,7 +87,7 @@
       "fund": "$166B",
       "round": "Mar 2026 · $122B round",
       "notes": "$122B round at $852B (Mar 2026); secondary ~$909B.",
-      "y": 840,
+      "y": 908.809,
       "p": 908.8,
       "m": 852,
       "c": 840,
@@ -93,10 +95,10 @@
       "claude": 852,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 840,
+      "consensus": 852,
       "low": 840,
-      "high": 908.8,
-      "dispersion": 8.2,
+      "high": 908.809,
+      "dispersion": 8.1,
       "cnt": 5,
       "no": 3,
       "claudeSrc": "priced $852B (Mar 2026, $122B round)",
@@ -107,9 +109,10 @@
         "url": "https://openai.com/index/accelerating-the-next-phase-ai/"
       },
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -140,9 +143,9 @@
       "no": 4,
       "claudeSrc": "$480B Nov-25 secondary / $550B Feb-26 stake sale",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -186,7 +189,7 @@
       "fund": "$9B",
       "round": "Feb 2026 · tender",
       "notes": "$159B tender (Feb 2026); Yahoo secondary up to ~$184B.",
-      "y": 184.4,
+      "y": 175.62,
       "p": 175.6,
       "m": 159,
       "c": 159,
@@ -196,8 +199,8 @@
       "addSrc": null,
       "consensus": 159,
       "low": 159,
-      "high": 184.4,
-      "dispersion": 16,
+      "high": 175.62,
+      "dispersion": 10.5,
       "cnt": 5,
       "no": 6,
       "claudeSrc": "priced $159B (Feb 2026 tender) + secondary ~$184B",
@@ -208,9 +211,10 @@
         "url": "https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html"
       },
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -225,7 +229,7 @@
       "fund": "$20B",
       "round": "Dec 2025 · Series L",
       "notes": "$134B Series L; secondary ~$159B. IPO expected H2 2026.",
-      "y": 138.45,
+      "y": 158.684,
       "p": 158.7,
       "m": 134,
       "c": 134,
@@ -247,9 +251,10 @@
         "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-surpasses-4-8b-revenue-run-rate-growing-55-year-over-year"
       },
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -280,8 +285,8 @@
       "no": 8,
       "claudeSrc": "last round ~$126B (Alphabet-led, 2025)",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -312,7 +317,7 @@
       "no": 9,
       "claudeSrc": "multiples ~$79B; Crunchbase $150B is stale (2020)",
       "fetched_at": {
-        "m": "2026-06-02T23:42:17.314Z"
+        "m": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -372,9 +377,9 @@
       "no": 11,
       "claudeSrc": "2025 blended secondary $75B (not the $100B investor target)",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -434,8 +439,8 @@
       "no": 13,
       "claudeSrc": "~$60–66B, IPO-pending and below peak",
       "fetched_at": {
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -450,7 +455,7 @@
       "fund": "$7B",
       "round": "May 2026 · Series H",
       "notes": "Verified Jun 2: $61B priced Series H (May 13). Yahoo/PremierAlts $98–99B are secondary; CB Insights still shows the old $14B.",
-      "y": 98.2,
+      "y": 100.988,
       "p": 99.4,
       "m": 61,
       "c": 61,
@@ -460,8 +465,8 @@
       "addSrc": "PMI",
       "consensus": 61,
       "low": 14,
-      "high": 99.4,
-      "dispersion": 140,
+      "high": 100.988,
+      "dispersion": 142.6,
       "cnt": 5,
       "no": 14,
       "claudeSrc": "priced Series H $61B (May 13 2026) + secondary premium to ~$99B",
@@ -472,9 +477,10 @@
         "url": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise"
       },
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -511,9 +517,9 @@
         "url": "https://www.bloomberg.com/news/articles/2025-08-20/canva-begins-share-sale-at-42-billion-valuation-in-road-to-ipo"
       },
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -544,8 +550,8 @@
       "no": 16,
       "claudeSrc": "priced $40B (2025); CB Insights $11B is stale",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -611,9 +617,9 @@
         "url": "https://www.figure.ai/news/series-c"
       },
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -657,7 +663,7 @@
       "fund": "$794M",
       "round": "2026",
       "notes": "Crunchbase $40B (buyback target) vs secondary ~$19B (Yahoo/PremierAlts).",
-      "y": 18,
+      "y": 19.1,
       "p": 19.1,
       "m": null,
       "c": 40,
@@ -666,15 +672,16 @@
       "addLabel": null,
       "addSrc": null,
       "consensus": 29.55,
-      "low": 18,
+      "low": 19.1,
       "high": 40,
-      "dispersion": 74.5,
+      "dispersion": 70.7,
       "cnt": 4,
       "no": 20,
       "claudeSrc": "buyback ~$40B; secondary trades lower (~$19B)",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -718,7 +725,7 @@
       "fund": "$2B",
       "round": "Nov 2025 · Series E",
       "notes": "Priced $32B (Nov 2025); reportedly raising at >$40B (WSJ, not closed).",
-      "y": 32.7,
+      "y": 32.822,
       "p": 32.8,
       "m": 32,
       "c": 32,
@@ -728,8 +735,8 @@
       "addSrc": "WSJ",
       "consensus": 32,
       "low": 32,
-      "high": 32.8,
-      "dispersion": 2.5,
+      "high": 32.822,
+      "dispersion": 2.6,
       "cnt": 5,
       "no": 22,
       "claudeSrc": "priced $32B (Nov 2025); $40B round in talks",
@@ -740,9 +747,10 @@
         "url": "https://www.prnewswire.com/news-releases/ramp-reaches-32-billion-valuation-doubling-revenue-and-customers-in-past-year-302616510.html"
       },
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -773,9 +781,9 @@
       "no": 23,
       "claudeSrc": "~$30–32B last round (2025)",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -790,7 +798,7 @@
       "fund": "$5B",
       "round": "2024",
       "notes": "Priced ~$31B (multiples/Crunchbase); secondary ~$17B (Yahoo/PremierAlts).",
-      "y": 17.1,
+      "y": 17.093,
       "p": 17.1,
       "m": 31,
       "c": 31,
@@ -799,16 +807,17 @@
       "addLabel": null,
       "addSrc": null,
       "consensus": 31,
-      "low": 17.1,
+      "low": 17.093,
       "high": 31,
-      "dispersion": 44.8,
+      "dispersion": 44.9,
       "cnt": 5,
       "no": 24,
       "claudeSrc": "anchored to last round: 2024",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -839,7 +848,7 @@
       "no": 25,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "m": "2026-06-02T23:42:17.314Z"
+        "m": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -870,9 +879,9 @@
       "no": 26,
       "claudeSrc": "~$30B last round; CB Insights $80B looks like an outlier",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -932,9 +941,9 @@
       "no": 28,
       "claudeSrc": "priced $29.3B (Nov 2025); $50B round in talks",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -965,9 +974,9 @@
       "no": 29,
       "claudeSrc": "Meta-deal priced $29B (2025) + modest premium; secondary ~$74B",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1085,8 +1094,8 @@
       "no": 33,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1130,7 +1139,7 @@
       "fund": "$8B",
       "round": "2024 · Disney",
       "notes": "multiples shows 2021 peak $32B; last priced ~$23B (Disney 2024); Yahoo $18B.",
-      "y": 18,
+      "y": 15.12,
       "p": null,
       "m": 32,
       "c": 23,
@@ -1139,15 +1148,16 @@
       "addLabel": null,
       "addSrc": null,
       "consensus": 22.75,
-      "low": 18,
+      "low": 15.12,
       "high": 32,
-      "dispersion": 61.5,
+      "dispersion": 74.2,
       "cnt": 4,
       "no": 35,
       "claudeSrc": "anchored to last round: 2024 · Disney",
       "fetched_at": {
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1162,7 +1172,7 @@
       "fund": "$2B",
       "round": "Mar 2026 · Series F",
       "notes": "Verified Jun 2: $22B Series F (Mar 2026), doubled from the $11B Dec round. Yahoo's $11.1B cell was that stale December figure.",
-      "y": 22,
+      "y": 23.76,
       "p": 23.8,
       "m": 22,
       "c": null,
@@ -1170,10 +1180,10 @@
       "claude": 22,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 22,
+      "consensus": 22.880000000000003,
       "low": 2,
       "high": 23.8,
-      "dispersion": 99.1,
+      "dispersion": 95.3,
       "cnt": 4,
       "no": 36,
       "claudeSrc": "priced $22B (Series F, Mar 2026)",
@@ -1184,9 +1194,10 @@
         "url": "https://news.kalshi.com/p/kalshi-raises-1-billion-22-billion-valuation-institutional-demand-surges"
       },
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1217,7 +1228,7 @@
       "no": 37,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1261,7 +1272,7 @@
       "fund": "$2B",
       "round": "Sep 2025",
       "notes": "~$20B (Sep 2025); Tracxn cites $22.6B.",
-      "y": 20.4,
+      "y": 19.889,
       "p": 20.4,
       "m": 20,
       "c": 20,
@@ -1270,9 +1281,9 @@
       "addLabel": "$22.6B",
       "addSrc": "Tracxn",
       "consensus": 20,
-      "low": 20,
+      "low": 19.889,
       "high": 20.4,
-      "dispersion": 2,
+      "dispersion": 2.6,
       "cnt": 5,
       "no": 39,
       "claudeSrc": "anchored to last round: Sep 2025",
@@ -1283,9 +1294,10 @@
         "url": "https://tech.yahoo.com/ai/articles/perplexity-finalizes-20-billion-valuation-232758661.html"
       },
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1316,8 +1328,8 @@
       "no": 40,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1348,7 +1360,7 @@
       "no": 41,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1379,8 +1391,8 @@
       "no": 42,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1411,8 +1423,8 @@
       "no": 43,
       "claudeSrc": "anchored to last round: 2026",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1443,8 +1455,8 @@
       "no": 44,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1475,9 +1487,9 @@
       "no": 45,
       "claudeSrc": "secondary ~$26–31B amid IPO chatter",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1492,7 +1504,7 @@
       "fund": "$2B",
       "round": "2026",
       "notes": "$15.8-19.4B across four sources.",
-      "y": 19.4,
+      "y": 15.79,
       "p": 15.8,
       "m": 17,
       "c": 17,
@@ -1500,17 +1512,18 @@
       "claude": 17,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 17,
-      "low": 15.8,
-      "high": 19.4,
-      "dispersion": 21.2,
+      "consensus": 16.8,
+      "low": 15.79,
+      "high": 17,
+      "dispersion": 7.2,
       "cnt": 5,
       "no": 46,
       "claudeSrc": "anchored to last round: 2026",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1541,8 +1554,8 @@
       "no": 47,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1573,7 +1586,7 @@
       "no": 48,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1633,8 +1646,8 @@
       "no": 50,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1649,7 +1662,7 @@
       "fund": "$1B",
       "round": "Apr 2026",
       "notes": "Crunchbase $20B is stale; Yahoo's $10.6B (Forge) is current. ~$13B Apr 2026, IPO filed.",
-      "y": 10.6,
+      "y": 11.739,
       "p": null,
       "m": null,
       "c": 20,
@@ -1657,15 +1670,16 @@
       "claude": 15,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 10.6,
+      "consensus": 11.739,
       "low": 2.92,
       "high": 20,
-      "dispersion": 161.1,
+      "dispersion": 145.5,
       "cnt": 3,
       "no": 51,
       "claudeSrc": "anchored to last round: Apr 2026",
       "fetched_at": {
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1680,7 +1694,7 @@
       "fund": "$983M",
       "round": "—",
       "notes": "Last priced $15B (2021); Yahoo secondary $8.5B. Confidential IPO filed Jan 2026.",
-      "y": 8.5,
+      "y": 8.529,
       "p": null,
       "m": 15,
       "c": 15,
@@ -1689,14 +1703,15 @@
       "addLabel": null,
       "addSrc": null,
       "consensus": 15,
-      "low": 8.5,
+      "low": 8.529,
       "high": 15,
-      "dispersion": 43.3,
+      "dispersion": 43.1,
       "cnt": 4,
       "no": 52,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1727,7 +1742,7 @@
       "no": 53,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "m": "2026-06-02T23:42:17.314Z"
+        "m": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1742,7 +1757,7 @@
       "fund": "$1B",
       "round": "2025 · Series E",
       "notes": "Yahoo $14.9B, Crunchbase $14B.",
-      "y": 14.9,
+      "y": 14.865,
       "p": null,
       "m": null,
       "c": 14,
@@ -1752,13 +1767,14 @@
       "addSrc": null,
       "consensus": 14,
       "low": 9.65,
-      "high": 14.9,
-      "dispersion": 37.5,
+      "high": 14.865,
+      "dispersion": 37.3,
       "cnt": 3,
       "no": 54,
       "claudeSrc": "priced $9.6B (Series E); secondary $14–43B",
       "fetched_at": {
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1773,7 +1789,7 @@
       "fund": "$2B",
       "round": "Jan 2026 · Series C",
       "notes": "Yahoo/Crunchbase $14B.",
-      "y": 14,
+      "y": 14.083,
       "p": null,
       "m": null,
       "c": 14,
@@ -1783,13 +1799,14 @@
       "addSrc": null,
       "consensus": 14,
       "low": 14,
-      "high": 14,
-      "dispersion": 0,
+      "high": 14.083,
+      "dispersion": 0.6,
       "cnt": 3,
       "no": 55,
       "claudeSrc": "anchored to last round: Jan 2026 · Series C",
       "fetched_at": {
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1862,7 +1879,7 @@
       "fund": "$3B",
       "round": "Oct 2025 · Series E",
       "notes": "Verified Jun 2: $10B priced Series E (Oct 2025); pre-IPO step-up round in progress. Yahoo $14.6B / PremierAlts $16.8B are secondary marks above the round.",
-      "y": 14.6,
+      "y": 16.772,
       "p": 16.8,
       "m": null,
       "c": null,
@@ -1870,16 +1887,17 @@
       "claude": 12,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 14.6,
+      "consensus": 16.772,
       "low": 10,
       "high": 16.8,
-      "dispersion": 46.6,
+      "dispersion": 40.5,
       "cnt": 3,
       "no": 58,
       "claudeSrc": "priced $10B (Series E, Oct 2025); step-up pending",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -1981,7 +1999,7 @@
       "fund": "$1B",
       "round": "Mar 2026 · Series G",
       "notes": "Verified Jun 2: $12.7B Series G (Mar 2026), up from $5.6B. Yahoo/Forge $10.4B is a stale secondary mark.",
-      "y": 12.7,
+      "y": 12.787,
       "p": null,
       "m": null,
       "c": 12.7,
@@ -1991,13 +2009,14 @@
       "addSrc": null,
       "consensus": 12.7,
       "low": 5.3,
-      "high": 12.7,
-      "dispersion": 58.3,
+      "high": 12.787,
+      "dispersion": 59,
       "cnt": 3,
       "no": 62,
       "claudeSrc": "priced $12.7B (Series G, Mar 2026)",
       "fetched_at": {
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -2041,7 +2060,7 @@
       "fund": "$2B",
       "round": "2026 · Series E",
       "notes": "Yahoo $12.3B, Crunchbase $13B.",
-      "y": 12.3,
+      "y": 13.404,
       "p": null,
       "m": null,
       "c": 13,
@@ -2049,15 +2068,16 @@
       "claude": 12,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 12.3,
+      "consensus": 13,
       "low": 9,
-      "high": 13,
-      "dispersion": 32.5,
+      "high": 13.404,
+      "dispersion": 33.9,
       "cnt": 3,
       "no": 64,
       "claudeSrc": "anchored to last round: 2026 · Series E",
       "fetched_at": {
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "cbi": "2026-06-02T23:54:10.329Z",
+        "y": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -2117,8 +2137,8 @@
       "no": 66,
       "claudeSrc": "anchored to last round: Jul 2025 · Seed",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
@@ -2671,9 +2691,9 @@
       "no": 85,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-02T23:42:17.314Z",
-        "m": "2026-06-02T23:42:17.314Z",
-        "cbi": "2026-06-02T23:42:17.314Z"
+        "p": "2026-06-02T23:54:10.329Z",
+        "m": "2026-06-02T23:54:10.329Z",
+        "cbi": "2026-06-02T23:54:10.329Z"
       }
     },
     {
