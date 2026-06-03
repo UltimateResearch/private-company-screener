@@ -41,7 +41,7 @@ const prompt = (co) => `You are a financial research analyst. Research this PRIV
 Company: ${co.company}  (sector: ${co.sector}; country: ${co.country})
 
 Produce:
-- claude: best independent valuation anchor in $B (39 = $39B; 1550 = $1.55T). Prefer the most recent reliable mark; prefer a priced round when one is recent, else a well-sourced secondary/tender/buyback/M&A.
+- claude: best independent valuation anchor in $B (39 = $39B; 1550 = $1.55T). Use the MOST RECENT reliable mark — goal is current fair value. Do NOT anchor to an older priced round when newer, well-sourced secondary/tender/buyback/M&A marks are materially different: a 6-month-old tender is often badly stale for fast-re-rating companies (e.g. a Dec tender at $800B when a Feb merger priced the company at $1.25T → use ~$1.25T). Cross-check your anchor against the live source columns; if it's far below the majority of recent sources, you're probably anchoring on a stale figure.
 - claudeSrc: ONE line (<=120 chars) stating the basis; distinguish priced rounds from secondaries.
 - filing: the most recent RELIABLE valuation EVENT — priced round, tender, secondary, buyback, M&A, or strategic investment — confirmed by a credible source (company newsroom or tier-1 outlet: Bloomberg, Reuters, WSJ, CNBC, FT, TechCrunch, Fortune, Forbes), ideally more than one. Put the EVENT TYPE in src, e.g. "Fortune · insider tender". You MUST fetch the exact URL and confirm it states this company's valuation + date. Set filing to null if the only mark is a target/rumor, undisclosed, founder-stated, or a single weak/aggregator source.
 - filingVerified: true ONLY if you fetched filing.url and it supports val+date for THIS company.
