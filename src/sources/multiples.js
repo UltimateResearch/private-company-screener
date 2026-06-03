@@ -7,7 +7,10 @@ const URL = "https://multiples.vc/insights/50-most-valuable-private-companies-in
 // Note: the list paginates (50 of 57). Click "next" if present to capture all.
 export async function scrapeMultiples() {
   return withPage(async (page) => {
-    await page.goto(URL, { waitUntil: "networkidle", timeout: 60000 });
+    // domcontentloaded (not networkidle): trackers/widgets keep the network busy,
+    // so networkidle intermittently times out. The waitForSelector below already
+    // gates on the table being present.
+    await page.goto(URL, { waitUntil: "domcontentloaded", timeout: 60000 });
     await page.waitForSelector("table tbody tr", { timeout: 30000 }).catch(() => {});
 
     const out = {};

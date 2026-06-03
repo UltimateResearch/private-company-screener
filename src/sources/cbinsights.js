@@ -8,7 +8,10 @@ const URL = "https://www.cbinsights.com/research-unicorn-companies/";
 // shows up (correctly) as a low outlier in the dispersion column rather than being hidden.
 export async function scrapeCBInsights() {
   return withPage(async (page) => {
-    await page.goto(URL, { waitUntil: "networkidle", timeout: 60000 });
+    // domcontentloaded (not networkidle): trackers/widgets keep the network busy,
+    // so networkidle intermittently times out. The waitForSelector below already
+    // gates on the table being present.
+    await page.goto(URL, { waitUntil: "domcontentloaded", timeout: 60000 });
     await page.waitForSelector("table tbody tr", { timeout: 30000 }).catch(() => {});
     const rows = await page.$$eval("table tbody tr", (trs) =>
       trs.map((tr) => Array.from(tr.querySelectorAll("td")).map((c) => c.innerText.trim()))
