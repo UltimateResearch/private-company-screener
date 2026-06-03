@@ -141,7 +141,7 @@
       "m": 550,
       "c": 480,
       "cbi": 480,
-      "claude": 330,
+      "claude": 480,
       "addLabel": null,
       "addSrc": null,
       "consensus": 480,
@@ -150,7 +150,7 @@
       "dispersion": 98,
       "cnt": 4,
       "no": 4,
-      "claudeSrc": "Employee share buyback priced $330B ($200.41/share), Aug 2025; no primary VC round (no IPO)",
+      "claudeSrc": "Nov-2025 secondary ~$480B; Feb-2026 General Atlantic stake-sale benchmark ~$550B (post-TikTok deal); Aug-2025 buyback was $330B",
       "fetched_at": {
         "p": "2026-06-03T02:58:55.165Z",
         "m": "2026-06-03T02:58:55.165Z",
@@ -158,10 +158,10 @@
         "c": "2026-06-03T02:58:55.165Z"
       },
       "filing": {
-        "date": "Aug 27, 2025",
-        "src": "CNBC · employee buyback",
-        "val": "$330B",
-        "url": "https://www.cnbc.com/2025/08/27/tiktok-owner-bytedance-sets-valuation-at-over-330-billion.html"
+        "date": "Feb 25, 2026",
+        "src": "Reuters · secondary stake sale",
+        "val": "$550B",
+        "url": "https://www.investing.com/news/stock-market-news/exclusivebytedance-valued-at-550-billion-in-proposed-share-sale-by-general-atlantic-sources-say-4523409"
       }
     },
     {
