@@ -8,8 +8,8 @@
       "founded": 2002,
       "valLabel": "$1.25T",
       "valN": 1250,
-      "tradeLabel": "$800B",
-      "tradeN": 800,
+      "tradeLabel": "$1.6T",
+      "tradeN": 1600,
       "fund": "$9B",
       "round": "Feb 2026 · xAI merger",
       "notes": "Sources span $800B (Crunchbase) to $1.75T (multiples / S-1 target). IPO ~June; absorbed xAI (~$250B).",
@@ -18,7 +18,7 @@
       "m": 1750,
       "c": 1000,
       "cbi": 400,
-      "claude": 800,
+      "claude": 1250,
       "addLabel": "$1.75T",
       "addSrc": "S-1",
       "consensus": 1550,
@@ -27,7 +27,7 @@
       "dispersion": 87.1,
       "cnt": 5,
       "no": 1,
-      "claudeSrc": "Insider tender/secondary at $421/share, ~$800B (Dec 2025); no priced primary round",
+      "claudeSrc": "xAI merger priced combined co at $1.25T (Feb 2026); May-2026 S-1 targets $1.75T IPO",
       "fetched_at": {
         "p": "2026-06-03T02:51:10.050Z",
         "m": "2026-06-03T02:51:10.050Z",
@@ -36,10 +36,10 @@
         "c": "2026-06-03T02:51:10.050Z"
       },
       "filing": {
-        "date": "Dec 13, 2025",
-        "src": "Fortune · insider tender",
-        "val": "$800B",
-        "url": "https://fortune.com/2025/12/13/spacex-ipo-plan-2026-secondary-offering-insider-share-sale-800-billion-valuation/"
+        "date": "May 20, 2026",
+        "src": "Bloomberg · S-1 / IPO target",
+        "val": "$1.75T",
+        "url": "https://www.bloomberg.com/graphics/2026-spacex-ipo-stock-market-nasdaq-listings/"
       }
     },
     {
