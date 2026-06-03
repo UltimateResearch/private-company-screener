@@ -34,6 +34,12 @@
         "cbi": "2026-06-03T01:31:21.910Z",
         "y": "2026-06-03T01:31:21.910Z",
         "c": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Dec 13, 2025",
+        "src": "Fortune · insider tender",
+        "val": "$800B",
+        "url": "https://fortune.com/2025/12/13/spacex-ipo-plan-2026-secondary-offering-insider-share-sale-800-billion-valuation/"
       }
     },
     {
@@ -150,6 +156,12 @@
         "m": "2026-06-03T01:31:21.910Z",
         "cbi": "2026-06-03T01:31:21.910Z",
         "c": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Aug 27, 2025",
+        "src": "CNBC · employee buyback",
+        "val": "$330B",
+        "url": "https://www.cnbc.com/2025/08/27/tiktok-owner-bytedance-sets-valuation-at-over-330-billion.html"
       }
     },
     {
@@ -216,6 +228,12 @@
         "cbi": "2026-06-03T01:31:21.910Z",
         "y": "2026-06-03T01:31:21.910Z",
         "c": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Feb 24, 2026",
+        "src": "Stripe · tender (secondary)",
+        "val": "$159B",
+        "url": "https://stripe.com/newsroom/news/stripe-2025-update"
       }
     },
     {
@@ -365,6 +383,12 @@
       "claudeSrc": "Last priced primary round 2020 ~$65B equity (FB/Google/PE); Nov 2025 banker IPO range $130-170B",
       "fetched_at": {
         "c": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Jul 15, 2020",
+        "src": "TechCrunch · primary (Google)",
+        "val": "$65B",
+        "url": "https://techcrunch.com/2020/07/15/google-invests-4-5-billion-in-indias-reliance-jio-platforms/"
       }
     },
     {
@@ -399,6 +423,12 @@
         "m": "2026-06-03T01:31:21.910Z",
         "cbi": "2026-06-03T01:31:21.910Z",
         "c": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Nov 24, 2025",
+        "src": "Revolut · secondary share sale",
+        "val": "$75B",
+        "url": "https://www.revolut.com/news/revolut_completes_fundraising_process_establishing_75_billion_valuation/"
       }
     },
     {
@@ -545,6 +575,12 @@
         "m": "2026-06-03T01:31:21.910Z",
         "cbi": "2026-06-03T01:31:21.910Z",
         "c": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Aug 22, 2025",
+        "src": "Fortune · employee secondary",
+        "val": "$42B",
+        "url": "https://fortune.com/2025/08/22/canva-billionaire-founders-minting-overnight-millionaires-employee-share-sale/"
       }
     },
     {
@@ -578,6 +614,12 @@
         "p": "2026-06-03T01:31:21.910Z",
         "cbi": "2026-06-03T01:31:21.910Z",
         "c": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Sep 26, 2025",
+        "src": "Checkout.com · buyback (409A)",
+        "val": "$12B",
+        "url": "https://www.checkout.com/newsroom/checkout-com-accelerates-towards-full-year-profitability-and-announces-employee-share-buy-back-and-a-new-12bn-valuation"
       }
     },
     {
@@ -1029,6 +1071,12 @@
         "m": "2026-06-03T01:31:21.910Z",
         "cbi": "2026-06-03T01:31:21.910Z",
         "c": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Nov 13, 2025",
+        "src": "CNBC · Series D (primary)",
+        "val": "$29.3B",
+        "url": "https://www.cnbc.com/2025/11/13/cursor-ai-startup-funding-round-valuation.html"
       }
     },
     {
@@ -1246,6 +1294,12 @@
       "claudeSrc": "Primary minority round priced ~$22B (Jan 2022, Sequoia+Paradigm $1.15B); no newer round/tender found",
       "fetched_at": {
         "m": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Jan 11, 2022",
+        "src": "The Information · primary",
+        "val": "$22B",
+        "url": "https://www.theinformation.com/briefings/sequoia-paradigm-back-citadel-securities-with-22-billion-valuation"
       }
     },
     {
@@ -1358,6 +1412,12 @@
       "claudeSrc": "~$15B secondary mark (Bloomberg) tied to $1.5B Salesforce+ServiceNow share buyback, Jul 2025; no priced round",
       "fetched_at": {
         "p": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Jul 31, 2025",
+        "src": "Genesys · strategic investment",
+        "val": "$15B",
+        "url": "https://www.genesys.com/company/newsroom/announcements/genesys-announces-1-5-billion-investment-by-salesforce-and-servicenow"
       }
     },
     {
@@ -1389,6 +1449,12 @@
       "claudeSrc": "Secondary share sale priced co. at EUR 19B (~$21B), Dec 2023; 2026 London IPO targeted ~EUR 19B, not yet priced",
       "fetched_at": {
         "m": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Dec 21, 2023",
+        "src": "SiliconANGLE · secondary stake sale",
+        "val": "$21B",
+        "url": "https://siliconangle.com/2023/12/21/adding-new-investors-enterprise-software-company-vismas-value-rises-21b/"
       }
     },
     {
@@ -1615,8 +1681,8 @@
       "founded": 2013,
       "valLabel": "$17B",
       "valN": 17,
-      "tradeLabel": "$50B",
-      "tradeN": 50,
+      "tradeLabel": "$31B",
+      "tradeN": 31,
       "fund": "$918M",
       "round": "—",
       "notes": "multiples $31B vs others $17B.",
@@ -1625,7 +1691,7 @@
       "m": 31,
       "c": 17,
       "cbi": 17,
-      "claude": 50,
+      "claude": 31,
       "addLabel": null,
       "addSrc": null,
       "consensus": 17,
@@ -1634,12 +1700,18 @@
       "dispersion": 82.4,
       "cnt": 4,
       "no": 45,
-      "claudeSrc": "Secondary/old-share sale ~$50B (RMB350B) end-2025; no recent priced primary round (last Series E ~$20B 2021)",
+      "claudeSrc": "secondary ~$31B in GSR fund books (Bloomberg, Sep 2025); $50B mark is weaker-sourced",
       "fetched_at": {
         "p": "2026-06-03T01:31:21.910Z",
         "m": "2026-06-03T01:31:21.910Z",
         "cbi": "2026-06-03T01:31:21.910Z",
         "c": "2026-06-03T01:31:21.910Z"
+      },
+      "filing": {
+        "date": "Sep 04, 2025",
+        "src": "Bloomberg · secondary (GSR books)",
+        "val": "$31B",
+        "url": "https://www.bloomberg.com/news/articles/2025-09-04/instagram-style-xiaohongshu-hits-31-billion-value-in-gsr-books"
       }
     },
     {
