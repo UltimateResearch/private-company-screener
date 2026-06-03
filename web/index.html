@@ -42,7 +42,7 @@ const SRC=[["y","Yahoo"],["p","PremierAlts"],["m","multiples.vc"],["c","Crunchba
 let sortKey="consensus",dir=-1;
 const fmt=n=>n==null?'<span class="mut">—</span>':(n>=1000?'$'+(n/1000).toFixed(2).replace(/.?0+$/,'')+'T':'$'+(Number.isInteger(n)?n:n.toFixed(n<100?1:0))+'B');
 function head(){
- let h='<th data-k="no">#</th><th class="l" data-k="company">Company</th><th class="l" data-k="sector">Sector</th><th class="l" data-k="country">Country</th><th data-k="founded">Founded</th>';
+ let h='<th>#</th><th class="l" data-k="company">Company</th><th class="l" data-k="sector">Sector</th><th class="l" data-k="country">Country</th><th data-k="founded">Founded</th>';
  h+='<th data-k="consensus">Consensus</th><th data-k="low">Low</th><th data-k="high">High</th><th data-k="dispersion">Disp</th><th data-k="cnt">Src#</th>';
  SRC.forEach(([k,l])=>h+='<th data-k="'+k+'">'+l+'</th>');
  h+='<th data-k="valN">Val</th><th data-k="tradeN">Recent Trading</th><th class="l" data-k="round">Last Round</th><th class="l">Latest Filing / Announcement</th><th class="l">Notes</th>';
@@ -52,8 +52,8 @@ function head(){
 function render(){
  const rows=[...DATA].sort((a,b)=>{let x=a[sortKey],y=b[sortKey];if(x==null)x=-Infinity;if(y==null)y=-Infinity;if(typeof x==="string"){x=x.toLowerCase();y=(""+y).toLowerCase();}return x<y?-dir:x>y?dir:0;});
  let html="";
- rows.forEach(o=>{
-  let r='<td>'+o.no+'</td><td class="l"><span class="co">'+o.company+'</span></td><td class="l sec">'+(o.sector||"")+'</td><td class="l">'+(o.country||"")+'</td><td>'+(o.founded||"")+'</td>';
+ rows.forEach((o,i)=>{
+  let r='<td>'+(i+1)+'</td><td class="l"><span class="co">'+o.company+'</span></td><td class="l sec">'+(o.sector||"")+'</td><td class="l">'+(o.country||"")+'</td><td>'+(o.founded||"")+'</td>';
   r+='<td class="cons">'+fmt(o.consensus)+'</td><td>'+fmt(o.low)+'</td><td>'+fmt(o.high)+'</td>';
   r+='<td class="'+(o.dispersion>=40?'hi':o.dispersion<=15?'lo':'')+'">'+(o.dispersion?o.dispersion+'%':'0%')+'</td><td>'+o.cnt+'</td>';
   SRC.forEach(([k])=>{ const t=k==="claude"?(' title="Claude basis: '+String(o.claudeSrc||"").replace(/"/g,"&quot;")+'"'):""; r+='<td'+t+'>'+fmt(o[k])+'</td>'; });
