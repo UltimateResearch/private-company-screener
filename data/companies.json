@@ -8,8 +8,8 @@
       "founded": 2002,
       "valLabel": "$1.25T",
       "valN": 1250,
-      "tradeLabel": "$1.6T",
-      "tradeN": 1600,
+      "tradeLabel": "$800B",
+      "tradeN": 800,
       "fund": "$9B",
       "round": "Feb 2026 · xAI merger",
       "notes": "Sources span $800B (Crunchbase) to $1.75T (multiples / S-1 target). IPO ~June; absorbed xAI (~$250B).",
@@ -18,7 +18,7 @@
       "m": 1750,
       "c": 1000,
       "cbi": 400,
-      "claude": 1250,
+      "claude": 800,
       "addLabel": "$1.75T",
       "addSrc": "S-1",
       "consensus": 1550,
@@ -27,7 +27,7 @@
       "dispersion": 87.1,
       "cnt": 5,
       "no": 1,
-      "claudeSrc": "priced ~$1.25T post-xAI absorption; secondary ~$1.75T (Forge)",
+      "claudeSrc": "Insider tender/secondary at $421/share, ~$800B (Dec 2025); no priced primary round",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
@@ -43,8 +43,8 @@
       "founded": 2021,
       "valLabel": "$965B",
       "valN": 965,
-      "tradeLabel": "$965B",
-      "tradeN": 965,
+      "tradeLabel": null,
+      "tradeN": null,
       "fund": "$56B",
       "round": "May 2026 · Series H",
       "notes": "Live trackers (Yahoo, PremierAlts, multiples, Crunchbase) all print the ~$965B Series H; CB Insights still lists the older $380B priced round.",
@@ -62,12 +62,12 @@
       "dispersion": 60.6,
       "cnt": 5,
       "no": 2,
-      "claudeSrc": "Series H priced ~$965B (≈May 2026); CBI still lists $380B",
+      "claudeSrc": "Series H priced $65B at $965B post-money (May 2026), most valuable AI startup; IPO filed",
       "filing": {
         "date": "May 28, 2026",
-        "src": "Bloomberg",
+        "src": "TechCrunch",
         "val": "$965B",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai"
+        "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/"
       },
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
@@ -84,8 +84,8 @@
       "founded": 2015,
       "valLabel": "$852B",
       "valN": 852,
-      "tradeLabel": "$909B",
-      "tradeN": 909,
+      "tradeLabel": "$500B",
+      "tradeN": 500,
       "fund": "$166B",
       "round": "Mar 2026 · $122B round",
       "notes": "$122B round at $852B (Mar 2026); secondary ~$909B.",
@@ -103,7 +103,7 @@
       "dispersion": 8.1,
       "cnt": 5,
       "no": 3,
-      "claudeSrc": "priced $852B (Mar 2026, $122B round)",
+      "claudeSrc": "Primary priced round: $122B raised at $852B post-money (Mar 31, 2026), largest ever",
       "filing": {
         "date": "Mar 31, 2026",
         "src": "OpenAI",
@@ -135,7 +135,7 @@
       "m": 550,
       "c": 480,
       "cbi": 480,
-      "claude": 480,
+      "claude": 330,
       "addLabel": null,
       "addSrc": null,
       "consensus": 480,
@@ -144,7 +144,7 @@
       "dispersion": 98,
       "cnt": 4,
       "no": 4,
-      "claudeSrc": "$480B Nov-25 secondary / $550B Feb-26 stake sale",
+      "claudeSrc": "Employee share buyback priced $330B ($200.41/share), Aug 2025; no primary VC round (no IPO)",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
@@ -169,7 +169,7 @@
       "m": 500,
       "c": null,
       "cbi": null,
-      "claude": 375,
+      "claude": 500,
       "addLabel": null,
       "addSrc": null,
       "consensus": 500,
@@ -178,7 +178,7 @@
       "dispersion": 0,
       "cnt": 1,
       "no": 5,
-      "claudeSrc": "secondary marks $350–375B (Forbes/Bloomberg, Feb 2026); $500B target was rejected",
+      "claudeSrc": "Reported ~$500B target for $15-20B private placement (Sep 2025); round NOT priced/closed, scaled back to ~$5B talks",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z"
       }
@@ -190,8 +190,8 @@
       "founded": 2010,
       "valLabel": "$159B",
       "valN": 159,
-      "tradeLabel": "$184B",
-      "tradeN": 184.4,
+      "tradeLabel": "$159B",
+      "tradeN": 159,
       "fund": "$9B",
       "round": "Feb 2026 · tender",
       "notes": "$159B tender (Feb 2026); Yahoo secondary up to ~$184B.",
@@ -200,7 +200,7 @@
       "m": 159,
       "c": 159,
       "cbi": 159,
-      "claude": 160,
+      "claude": 159,
       "addLabel": null,
       "addSrc": null,
       "consensus": 159,
@@ -209,13 +209,7 @@
       "dispersion": 10.5,
       "cnt": 5,
       "no": 6,
-      "claudeSrc": "priced $159B (Feb 2026 tender) + secondary ~$184B",
-      "filing": {
-        "date": "Feb 24, 2026",
-        "src": "CNBC",
-        "val": "$159B",
-        "url": "https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html"
-      },
+      "claudeSrc": "Tender offer (secondary) valued Stripe at $159B, Feb 2026; no priced primary round — last primary was 2021",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
@@ -231,8 +225,8 @@
       "founded": 2013,
       "valLabel": "$134B",
       "valN": 134,
-      "tradeLabel": "$159B",
-      "tradeN": 158.7,
+      "tradeLabel": null,
+      "tradeN": null,
       "fund": "$20B",
       "round": "Dec 2025 · Series L",
       "notes": "$134B Series L; secondary ~$159B. IPO expected H2 2026.",
@@ -250,7 +244,7 @@
       "dispersion": 43.8,
       "cnt": 5,
       "no": 7,
-      "claudeSrc": "priced $134B (Series L, Dec 2025 / closed Feb 2026)",
+      "claudeSrc": "Series L priced $134B; >$4B raised Dec 2025, round closed ~$5B equity Feb 2026 same valuation",
       "filing": {
         "date": "Dec 16, 2025",
         "src": "Databricks",
@@ -272,7 +266,7 @@
       "founded": 2009,
       "valLabel": "$126B",
       "valN": 126,
-      "tradeLabel": "—",
+      "tradeLabel": null,
       "tradeN": null,
       "fund": "$27B",
       "round": "2025",
@@ -291,11 +285,17 @@
       "dispersion": 0,
       "cnt": 3,
       "no": 8,
-      "claudeSrc": "last round ~$126B (Alphabet-led, 2025)",
+      "claudeSrc": "$16B round priced at $126B post-money (Feb 2026), led by Dragoneer, DST Global, Sequoia",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Feb 02, 2026",
+        "src": "Waymo (newsroom)",
+        "val": "$126B",
+        "url": "https://waymo.com/blog/2026/02/waymo-raises-usd16-billion-investment-round/"
       }
     },
     {
@@ -305,8 +305,8 @@
       "founded": 2014,
       "valLabel": "$79B",
       "valN": 79,
-      "tradeLabel": "—",
-      "tradeN": null,
+      "tradeLabel": "$105B",
+      "tradeN": 105,
       "fund": "$19B",
       "round": "—",
       "notes": "Crunchbase $150B is stale (2020); multiples ~$79B. Not on CB Insights.",
@@ -315,7 +315,7 @@
       "m": 79,
       "c": 150,
       "cbi": null,
-      "claude": 80,
+      "claude": 78.5,
       "addLabel": null,
       "addSrc": null,
       "consensus": 114.5,
@@ -324,10 +324,16 @@
       "dispersion": 62,
       "cnt": 2,
       "no": 9,
-      "claudeSrc": "multiples ~$79B; Crunchbase $150B is stale (2020)",
+      "claudeSrc": "Last priced event: Jul 2023 share buyback valued firm ~$78.5B; IPO chatter targets >$200B (not priced)",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Jul 08, 2023",
+        "src": "Nikkei Asia (Reuters)",
+        "val": "$78.5B",
+        "url": "https://asia.nikkei.com/Business/Companies/Ant-s-share-buyback-values-firm-at-steep-70-discount-to-IPO"
       }
     },
     {
@@ -337,8 +343,8 @@
       "founded": 2019,
       "valLabel": "$100B",
       "valN": 100,
-      "tradeLabel": null,
-      "tradeN": null,
+      "tradeLabel": "$170B",
+      "tradeN": 170,
       "fund": null,
       "round": "Pre-IPO",
       "notes": "Jio Platforms; IPO expected. Took Meta/Google capital at ~$100B in 2020.",
@@ -347,7 +353,7 @@
       "m": null,
       "c": 58,
       "cbi": null,
-      "claude": 100,
+      "claude": 65,
       "addLabel": null,
       "addSrc": null,
       "consensus": 58,
@@ -356,7 +362,7 @@
       "dispersion": 0,
       "cnt": 1,
       "no": 10,
-      "claudeSrc": "Jio Platforms 2020 round ~$100B; pre-IPO step-up expected",
+      "claudeSrc": "Last priced primary round 2020 ~$65B equity (FB/Google/PE); Nov 2025 banker IPO range $130-170B",
       "fetched_at": {
         "c": "2026-06-03T00:46:08.789Z"
       }
@@ -368,8 +374,8 @@
       "founded": 2015,
       "valLabel": "$75B",
       "valN": 75,
-      "tradeLabel": "$100B",
-      "tradeN": 100,
+      "tradeLabel": "$75B",
+      "tradeN": 75,
       "fund": "$2B",
       "round": "2025 · secondary",
       "notes": "Priced $75B; PremierAlts secondary $100B.",
@@ -387,7 +393,7 @@
       "dispersion": 33.3,
       "cnt": 4,
       "no": 11,
-      "claudeSrc": "2025 blended secondary $75B (not the $100B investor target)",
+      "claudeSrc": "Secondary share sale $75B (Nov 2025, employee liquidity); no priced primary round since",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
@@ -434,8 +440,8 @@
       "founded": 2008,
       "valLabel": "$66B",
       "valN": 66,
-      "tradeLabel": "—",
-      "tradeN": null,
+      "tradeLabel": "$30B",
+      "tradeN": 30,
       "fund": "$4B",
       "round": "—",
       "notes": "multiples $45B vs Crunchbase/CB Insights $66B. HQ Singapore/China.",
@@ -444,7 +450,7 @@
       "m": 45,
       "c": 66,
       "cbi": 66,
-      "claude": 60,
+      "claude": 66,
       "addLabel": null,
       "addSrc": null,
       "consensus": 66,
@@ -453,11 +459,17 @@
       "dispersion": 31.8,
       "cnt": 3,
       "no": 13,
-      "claudeSrc": "~$60–66B, IPO-pending and below peak",
+      "claudeSrc": "Last priced primary round: $2B raised at $66B (May 2023); since marked down via secondaries/IPO targets",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "May 18, 2023",
+        "src": "Fashion Dive (citing WSJ)",
+        "val": "$66B",
+        "url": "https://www.fashiondive.com/news/shein-2b-funding-round/650664/"
       }
     },
     {
@@ -467,8 +479,8 @@
       "founded": 2017,
       "valLabel": "$61B",
       "valN": 61,
-      "tradeLabel": "$99B",
-      "tradeN": 99,
+      "tradeLabel": null,
+      "tradeN": null,
       "fund": "$7B",
       "round": "May 2026 · Series H",
       "notes": "Verified Jun 2: $61B priced Series H (May 13). Yahoo/PremierAlts $98–99B are secondary; CB Insights still shows the old $14B.",
@@ -477,7 +489,7 @@
       "m": 61,
       "c": 61,
       "cbi": 14,
-      "claude": 65,
+      "claude": 61,
       "addLabel": "$95B",
       "addSrc": "PMI",
       "consensus": 61,
@@ -486,12 +498,12 @@
       "dispersion": 142.6,
       "cnt": 5,
       "no": 14,
-      "claudeSrc": "priced Series H $61B (May 13 2026) + secondary premium to ~$99B",
+      "claudeSrc": "Series H priced $5B raise at $61B valuation, led by Thrive Capital & a16z (May 2026)",
       "filing": {
         "date": "May 13, 2026",
-        "src": "Anduril",
+        "src": "TechCrunch",
         "val": "$61B",
-        "url": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise"
+        "url": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/"
       },
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
@@ -518,7 +530,7 @@
       "m": 65,
       "c": 42,
       "cbi": 32,
-      "claude": 45,
+      "claude": 42,
       "addLabel": null,
       "addSrc": null,
       "consensus": 42,
@@ -527,13 +539,7 @@
       "dispersion": 78.6,
       "cnt": 4,
       "no": 15,
-      "claudeSrc": "priced ~$42B; multiples marks $65B",
-      "filing": {
-        "date": "Aug 20, 2025",
-        "src": "Bloomberg",
-        "val": "$42B",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-20/canva-begins-share-sale-at-42-billion-valuation-in-road-to-ipo"
-      },
+      "claudeSrc": "Secondary employee share sale $42B (Aug 2025); no priced primary round since",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
@@ -548,8 +554,8 @@
       "founded": 2012,
       "valLabel": "$40B",
       "valN": 40,
-      "tradeLabel": "$40B",
-      "tradeN": 40,
+      "tradeLabel": "$12B",
+      "tradeN": 12,
       "fund": "$2B",
       "round": "—",
       "notes": "PremierAlts/Crunchbase $40B; CB Insights lags at $11B (2019 round).",
@@ -558,7 +564,7 @@
       "m": null,
       "c": 40,
       "cbi": 11,
-      "claude": 40,
+      "claude": 12,
       "addLabel": null,
       "addSrc": null,
       "consensus": 40,
@@ -567,7 +573,7 @@
       "dispersion": 72.5,
       "cnt": 3,
       "no": 16,
-      "claudeSrc": "priced $40B (2025); CB Insights $11B is stale",
+      "claudeSrc": "Internal 409A valuation $12B (Sep 2025) for employee share buyback; last priced round $40B Series D (Jan 2022)",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
@@ -600,9 +606,15 @@
       "dispersion": 0,
       "cnt": 1,
       "no": 17,
-      "claudeSrc": "anchored to last round: 2025",
+      "claudeSrc": "~$40B enterprise value in BlackRock GIP/MGX/AIP acquisition (Oct 2025 M&A buyout, not a primary round)",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Oct 15, 2025",
+        "src": "Aligned Data Centers",
+        "val": "$40B",
+        "url": "https://aligneddc.com/press-release/ai-infrastructure-partnership-aip-mgx-and-blackrocks-global-infrastructure-partners-gip-to-acquire-all-equity-in-aligned-data-centers/"
       }
     },
     {
@@ -612,8 +624,8 @@
       "founded": 2022,
       "valLabel": "$39B",
       "valN": 39,
-      "tradeLabel": "$39B",
-      "tradeN": 39,
+      "tradeLabel": null,
+      "tradeN": null,
       "fund": "$2B",
       "round": "2026 · Series C",
       "notes": "$39-40B across three sources.",
@@ -631,12 +643,12 @@
       "dispersion": 2.6,
       "cnt": 4,
       "no": 18,
-      "claudeSrc": "priced $39B (Series C, Sep 2025)",
+      "claudeSrc": "Series C priced $39B post-money (Sep 16, 2025), >$1B raised, led by Parkway VC",
       "filing": {
         "date": "Sep 16, 2025",
-        "src": "Figure",
+        "src": "TechCrunch",
         "val": "$39B",
-        "url": "https://www.figure.ai/news/series-c"
+        "url": "https://techcrunch.com/2025/09/16/figure-reaches-39b-valuation-in-latest-funding-round/"
       },
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
@@ -671,9 +683,15 @@
       "dispersion": 0,
       "cnt": 1,
       "no": 19,
-      "claudeSrc": "anchored to last round: Pre-IPO",
+      "claudeSrc": "Priced round: Google $350M + Walmart at $36B valuation (May 2024); 2026 pre-IPO round not yet priced",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "May 24, 2024",
+        "src": "TechCrunch",
+        "val": "$36B",
+        "url": "https://techcrunch.com/2024/05/24/google-invests-350-million-in-indias-flipkart/"
       }
     },
     {
@@ -683,8 +701,8 @@
       "founded": 2012,
       "valLabel": "$40B",
       "valN": 40,
-      "tradeLabel": "$19B",
-      "tradeN": 19,
+      "tradeLabel": "$50B",
+      "tradeN": 50,
       "fund": "$794M",
       "round": "2026",
       "notes": "Crunchbase $40B (buyback target) vs secondary ~$19B (Yahoo/PremierAlts).",
@@ -693,7 +711,7 @@
       "m": null,
       "c": 40,
       "cbi": 40,
-      "claude": 35,
+      "claude": 40,
       "addLabel": null,
       "addSrc": null,
       "consensus": 29.55,
@@ -702,12 +720,18 @@
       "dispersion": 70.7,
       "cnt": 4,
       "no": 20,
-      "claudeSrc": "buyback ~$40B; secondary trades lower (~$19B)",
+      "claudeSrc": "Priced $500M strategic round at $40B led by Fortress & Citadel (Nov 5, 2025)",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
         "y": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Nov 05, 2025",
+        "src": "Fortress Investment Group",
+        "val": "$40B",
+        "url": "https://www.fortress.com/media/2025-11-05-ripple-announces-500-million-strategic-investment-led-by-fortress-and-citadel-securities-valuing-the-company-at-40-billion-following-record-growth"
       }
     },
     {
@@ -727,7 +751,7 @@
       "m": 38,
       "c": 38,
       "cbi": null,
-      "claude": 30,
+      "claude": 38,
       "addLabel": null,
       "addSrc": null,
       "consensus": 38,
@@ -736,10 +760,16 @@
       "dispersion": 0,
       "cnt": 2,
       "no": 21,
-      "claudeSrc": "anchored to last round: 2025 seed",
+      "claudeSrc": "$10B priced primary round at $38B post-money (Apr 2026); led by institutional investors incl. JPMorgan, BlackRock",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Apr 23, 2026",
+        "src": "TechFundingNews",
+        "val": "$38B",
+        "url": "https://techfundingnews.com/project-prometheus-bezos-funding-38b-valuation-physics-ai/"
       }
     },
     {
@@ -749,8 +779,8 @@
       "founded": 2019,
       "valLabel": "$32B",
       "valN": 32,
-      "tradeLabel": "$33B",
-      "tradeN": 33,
+      "tradeLabel": "$40B",
+      "tradeN": 40,
       "fund": "$2B",
       "round": "Nov 2025 · Series E",
       "notes": "Priced $32B (Nov 2025); reportedly raising at >$40B (WSJ, not closed).",
@@ -759,7 +789,7 @@
       "m": 32,
       "c": 32,
       "cbi": 32,
-      "claude": 33,
+      "claude": 32,
       "addLabel": "$40B",
       "addSrc": "WSJ",
       "consensus": 32,
@@ -768,10 +798,10 @@
       "dispersion": 2.6,
       "cnt": 5,
       "no": 22,
-      "claudeSrc": "priced $32B (Nov 2025); $40B round in talks",
+      "claudeSrc": "$300M primary round priced at $32B post-money, led by Lightspeed (Nov 2025); $40B+ round still in talks",
       "filing": {
         "date": "Nov 17, 2025",
-        "src": "Ramp",
+        "src": "Ramp (PR Newswire)",
         "val": "$32B",
         "url": "https://www.prnewswire.com/news-releases/ramp-reaches-32-billion-valuation-doubling-revenue-and-customers-in-past-year-302616510.html"
       },
@@ -790,8 +820,8 @@
       "founded": 2024,
       "valLabel": "$32B",
       "valN": 32,
-      "tradeLabel": "$32B",
-      "tradeN": 32,
+      "tradeLabel": null,
+      "tradeN": null,
       "fund": "$3B",
       "round": "2025",
       "notes": "All three sources $32B.",
@@ -809,12 +839,18 @@
       "dispersion": 6.3,
       "cnt": 4,
       "no": 23,
-      "claudeSrc": "~$30–32B last round (2025)",
+      "claudeSrc": "Round priced ~$32B, $2B raised led by Greenoaks (Apr 2025); no newer priced round through Jun 2026",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Apr 12, 2025",
+        "src": "TechCrunch",
+        "val": "$32B",
+        "url": "https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/"
       }
     },
     {
@@ -824,8 +860,8 @@
       "founded": 2011,
       "valLabel": "$31B",
       "valN": 31,
-      "tradeLabel": "$17B",
-      "tradeN": 17,
+      "tradeLabel": "$25B",
+      "tradeN": 25,
       "fund": "$5B",
       "round": "2024",
       "notes": "Priced ~$31B (multiples/Crunchbase); secondary ~$17B (Yahoo/PremierAlts).",
@@ -843,13 +879,19 @@
       "dispersion": 44.9,
       "cnt": 5,
       "no": 24,
-      "claudeSrc": "anchored to last round: 2024",
+      "claudeSrc": "Last priced primary round $31B ($700M led by Clearlake, Dec 2022); later secondaries lower",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
         "y": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Dec 06, 2022",
+        "src": "Fanatics Inc (WSJ)",
+        "val": "$31B",
+        "url": "https://www.fanaticsinc.com/news/the-wall-street-journal-fanatics-hits-31-billion-valuation-in-latest-funding-round"
       }
     },
     {
@@ -910,12 +952,18 @@
       "dispersion": 166.7,
       "cnt": 4,
       "no": 26,
-      "claudeSrc": "~$30B last round; CB Insights $80B looks like an outlier",
+      "claudeSrc": "Series F priced ~$1B at $30B valuation (Apr 2026); incl >$500M secondary",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Apr 21, 2026",
+        "src": "VAST Data",
+        "val": "$30B",
+        "url": "https://www.vastdata.com/press-releases/vast-series-f-financing-at-30-billion-valuation"
       }
     },
     {
@@ -925,8 +973,8 @@
       "founded": 2013,
       "valLabel": "$30B",
       "valN": 30,
-      "tradeLabel": null,
-      "tradeN": null,
+      "tradeLabel": "$30B",
+      "tradeN": 30,
       "fund": null,
       "round": "2025 debt",
       "notes": "Convertible/debt-funded; equity valuation est.",
@@ -944,7 +992,7 @@
       "dispersion": 0,
       "cnt": 1,
       "no": 27,
-      "claudeSrc": "anchored to last round: 2025 debt",
+      "claudeSrc": "Founder-stated investor valuation >$30B tied to $1.7B convertible bond raise (May 2025); no priced equity round",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z"
       }
@@ -966,7 +1014,7 @@
       "m": 29,
       "c": 29,
       "cbi": 29.3,
-      "claude": 33,
+      "claude": 29.3,
       "addLabel": null,
       "addSrc": null,
       "consensus": 29.15,
@@ -975,7 +1023,7 @@
       "dispersion": 72,
       "cnt": 4,
       "no": 28,
-      "claudeSrc": "priced $29.3B (Nov 2025); $50B round in talks",
+      "claudeSrc": "Series D priced $29.3B post-money, $2.3B raised (Nov 2025); latest CLOSED round",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
@@ -990,8 +1038,8 @@
       "founded": 2016,
       "valLabel": "$29B",
       "valN": 29,
-      "tradeLabel": "$74B",
-      "tradeN": 74,
+      "tradeLabel": "$25B",
+      "tradeN": 25,
       "fund": "$16B",
       "round": "2025 · Meta deal",
       "notes": "Secondary ~$74B (PremierAlts) vs priced $29B (multiples/Crunchbase); CB Insights $13.8B.",
@@ -1000,7 +1048,7 @@
       "m": 29,
       "c": 29,
       "cbi": 13.8,
-      "claude": 30,
+      "claude": 29,
       "addLabel": null,
       "addSrc": null,
       "consensus": 29,
@@ -1009,12 +1057,18 @@
       "dispersion": 207.9,
       "cnt": 4,
       "no": 29,
-      "claudeSrc": "Meta-deal priced $29B (2025) + modest premium; secondary ~$74B",
+      "claudeSrc": "Meta strategic investment ~$14.3B for 49% stake, valued Scale AI at $29B (priced, Jun 2025)",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Jun 13, 2025",
+        "src": "TechCrunch",
+        "val": "$29B",
+        "url": "https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/"
       }
     },
     {
@@ -1043,9 +1097,15 @@
       "dispersion": 0,
       "cnt": 1,
       "no": 30,
-      "claudeSrc": "anchored to last round: PE",
+      "claudeSrc": "Priced $1.6B minority equity round at $29B enterprise value (May 2025); latest primary mark",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "May 12, 2025",
+        "src": "HUB International (newsroom) / PR Newswire",
+        "val": "$29B",
+        "url": "https://www.hubinternational.com/media-center/press-releases/2025/05/hub-secures-significant-minority-investment-and-reaches-new-milestone/"
       }
     },
     {
@@ -1065,7 +1125,7 @@
       "m": 23,
       "c": null,
       "cbi": null,
-      "claude": 28,
+      "claude": 24.2,
       "addLabel": null,
       "addSrc": null,
       "consensus": 23,
@@ -1074,7 +1134,7 @@
       "dispersion": 0,
       "cnt": 1,
       "no": 31,
-      "claudeSrc": "anchored to last round: n/a",
+      "claudeSrc": "No priced round (bootstrapped); Hurun estimate ~$24.2B as of Nov 2024 (pub Feb 2025)",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z"
       }
@@ -1105,11 +1165,17 @@
       "dispersion": 0,
       "cnt": 3,
       "no": 32,
-      "claudeSrc": "anchored to last round: 2026",
+      "claudeSrc": "ICE strategic primary investment priced at $25B valuation (Mar 2026)",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Mar 05, 2026",
+        "src": "Fortune",
+        "val": "$25B",
+        "url": "https://fortune.com/2026/03/05/okx-ice-intercontinental-exchange-investment-tokenized-securities-25-billio/"
       }
     },
     {
@@ -1119,8 +1185,8 @@
       "founded": 2016,
       "valLabel": "$23B",
       "valN": 23,
-      "tradeLabel": "$22B",
-      "tradeN": 22,
+      "tradeLabel": null,
+      "tradeN": null,
       "fund": "$7B",
       "round": "—",
       "notes": "Spread $22-37B; multiples highest at $37B.",
@@ -1129,7 +1195,7 @@
       "m": 37,
       "c": 23,
       "cbi": null,
-      "claude": 25,
+      "claude": 22,
       "addLabel": null,
       "addSrc": null,
       "consensus": 23,
@@ -1138,11 +1204,17 @@
       "dispersion": 64.8,
       "cnt": 3,
       "no": 33,
-      "claudeSrc": "anchored to last round: —",
+      "claudeSrc": "Priced equity stake disclosure ~$22B (CNY161.6B), Apr 2025; 2026 STAR IPO targets ~$28-44B (rumored)",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Apr 27, 2025",
+        "src": "South China Morning Post",
+        "val": "$22B",
+        "url": "https://www.scmp.com/tech/tech-war/article/3308026/chinese-memory-chipmaker-ymtc-valued-us22-billion-after-beverage-company-investment"
       }
     },
     {
@@ -1162,7 +1234,7 @@
       "m": 22,
       "c": null,
       "cbi": null,
-      "claude": 25,
+      "claude": 22,
       "addLabel": null,
       "addSrc": null,
       "consensus": 22,
@@ -1171,7 +1243,7 @@
       "dispersion": 0,
       "cnt": 1,
       "no": 34,
-      "claudeSrc": "anchored to last round: 2022",
+      "claudeSrc": "Primary minority round priced ~$22B (Jan 2022, Sequoia+Paradigm $1.15B); no newer round/tender found",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z"
       }
@@ -1183,8 +1255,8 @@
       "founded": 1991,
       "valLabel": "$23B",
       "valN": 23,
-      "tradeLabel": "$18B",
-      "tradeN": 18,
+      "tradeLabel": "$15.7B",
+      "tradeN": 15.7,
       "fund": "$8B",
       "round": "2024 · Disney",
       "notes": "multiples shows 2021 peak $32B; last priced ~$23B (Disney 2024); Yahoo $18B.",
@@ -1202,12 +1274,18 @@
       "dispersion": 74.2,
       "cnt": 4,
       "no": 35,
-      "claudeSrc": "anchored to last round: 2024 · Disney",
+      "claudeSrc": "Disney $1.5B investment priced Epic at $22.5B (Feb 2024); secondaries imply ~$15.7B in 2026",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
         "y": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Feb 07, 2024",
+        "src": "The Information",
+        "val": "$22.5B",
+        "url": "https://www.theinformation.com/articles/disneys-epic-deal-values-fortnite-maker-at-22-5-billion-a-sharp-cut"
       }
     },
     {
@@ -1217,8 +1295,8 @@
       "founded": 2018,
       "valLabel": "$22B",
       "valN": 22,
-      "tradeLabel": "$24B",
-      "tradeN": 23.8,
+      "tradeLabel": null,
+      "tradeN": null,
       "fund": "$2B",
       "round": "Mar 2026 · Series F",
       "notes": "Verified Jun 2: $22B Series F (Mar 2026), doubled from the $11B Dec round. Yahoo's $11.1B cell was that stale December figure.",
@@ -1236,10 +1314,10 @@
       "dispersion": 99.1,
       "cnt": 5,
       "no": 36,
-      "claudeSrc": "priced $22B (Series F, Mar 2026)",
+      "claudeSrc": "Series F priced $22B, $1B led by Coatue (May 2026); doubled from $11B Series E Dec 2025",
       "filing": {
-        "date": "May 7, 2026",
-        "src": "Kalshi",
+        "date": "May 07, 2026",
+        "src": "Kalshi (newsroom)",
         "val": "$22B",
         "url": "https://news.kalshi.com/p/kalshi-raises-1-billion-22-billion-valuation-institutional-demand-surges"
       },
@@ -1258,8 +1336,8 @@
       "founded": 1990,
       "valLabel": "$21B",
       "valN": 21,
-      "tradeLabel": "$30B",
-      "tradeN": 30,
+      "tradeLabel": "$15B",
+      "tradeN": 15,
       "fund": "—",
       "round": "—",
       "notes": "PremierAlts $30B vs multiples $15B; PE-owned, IPO delayed.",
@@ -1268,7 +1346,7 @@
       "m": 15,
       "c": null,
       "cbi": null,
-      "claude": 22,
+      "claude": 15,
       "addLabel": null,
       "addSrc": null,
       "consensus": 22.5,
@@ -1277,7 +1355,7 @@
       "dispersion": 66.7,
       "cnt": 2,
       "no": 37,
-      "claudeSrc": "anchored to last round: —",
+      "claudeSrc": "~$15B secondary mark (Bloomberg) tied to $1.5B Salesforce+ServiceNow share buyback, Jul 2025; no priced round",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z"
       }
@@ -1289,8 +1367,8 @@
       "founded": 1996,
       "valLabel": "$21B",
       "valN": 21,
-      "tradeLabel": null,
-      "tradeN": null,
+      "tradeLabel": "$21B",
+      "tradeN": 21,
       "fund": null,
       "round": "PE",
       "notes": "Hg-backed enterprise software.",
@@ -1308,7 +1386,7 @@
       "dispersion": 0,
       "cnt": 1,
       "no": 38,
-      "claudeSrc": "anchored to last round: PE",
+      "claudeSrc": "Secondary share sale priced co. at EUR 19B (~$21B), Dec 2023; 2026 London IPO targeted ~EUR 19B, not yet priced",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z"
       }
@@ -1320,8 +1398,8 @@
       "founded": 2022,
       "valLabel": "$20B",
       "valN": 20,
-      "tradeLabel": "$20B",
-      "tradeN": 20,
+      "tradeLabel": null,
+      "tradeN": null,
       "fund": "$2B",
       "round": "Sep 2025",
       "notes": "~$20B (Sep 2025); Tracxn cites $22.6B.",
@@ -1339,12 +1417,12 @@
       "dispersion": 77,
       "cnt": 5,
       "no": 39,
-      "claudeSrc": "anchored to last round: Sep 2025",
+      "claudeSrc": "Priced round $200M at $20B valuation (Sep 2025); later aggregator marks ~$21-22.6B unverified",
       "filing": {
         "date": "Sep 10, 2025",
-        "src": "Reuters (report)",
+        "src": "TechCrunch",
         "val": "$20B",
-        "url": "https://tech.yahoo.com/ai/articles/perplexity-finalizes-20-billion-valuation-232758661.html"
+        "url": "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/"
       },
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
@@ -1361,8 +1439,8 @@
       "founded": 2003,
       "valLabel": "$20B",
       "valN": 20,
-      "tradeLabel": "$20B",
-      "tradeN": 20,
+      "tradeLabel": null,
+      "tradeN": null,
       "fund": "$4B",
       "round": "—",
       "notes": "PremierAlts/multiples/Crunchbase all $20B.",
@@ -1380,7 +1458,7 @@
       "dispersion": 20,
       "cnt": 3,
       "no": 40,
-      "claudeSrc": "anchored to last round: —",
+      "claudeSrc": "Last priced anchor ~$20B (CPP/Motive 2022); Nov 2025 $650M raise undisclosed val, likely down round",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
@@ -1394,8 +1472,8 @@
       "founded": 2016,
       "valLabel": "$19B",
       "valN": 19,
-      "tradeLabel": "$18B",
-      "tradeN": 18,
+      "tradeLabel": null,
+      "tradeN": null,
       "fund": "$5B",
       "round": "—",
       "notes": "China memory; $17.6-20B.",
@@ -1404,7 +1482,7 @@
       "m": 20,
       "c": 19,
       "cbi": null,
-      "claude": 19,
+      "claude": 22,
       "addLabel": null,
       "addSrc": null,
       "consensus": 19,
@@ -1413,7 +1491,7 @@
       "dispersion": 12.6,
       "cnt": 3,
       "no": 41,
-      "claudeSrc": "anchored to last round: —",
+      "claudeSrc": "June 2025 Pre-IPO round priced ~RMB158.4B (~$22B): Alibaba Cloud put RMB6.1B for 3.85%",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z",
@@ -1427,7 +1505,7 @@
       "founded": 2011,
       "valLabel": "$18B",
       "valN": 18,
-      "tradeLabel": "—",
+      "tradeLabel": null,
       "tradeN": null,
       "fund": "$476M",
       "round": "—",
@@ -1437,7 +1515,7 @@
       "m": 18,
       "c": 18,
       "cbi": 17.5,
-      "claude": 17,
+      "claude": 17.5,
       "addLabel": null,
       "addSrc": null,
       "consensus": 18,
@@ -1446,11 +1524,17 @@
       "dispersion": 2.8,
       "cnt": 3,
       "no": 42,
-      "claudeSrc": "anchored to last round: —",
+      "claudeSrc": "Series C priced $17.5B (Jan 2022); no newer priced round; platform estimates ~$22-24B but not reported deals",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Jan 05, 2022",
+        "src": "TechCrunch",
+        "val": "$17.5B",
+        "url": "https://techcrunch.com/2022/01/05/visual-collaboration-company-miro-valued-at-17-5b-following-400m-in-new-funding/"
       }
     },
     {
@@ -1460,8 +1544,8 @@
       "founded": 2019,
       "valLabel": "$17B",
       "valN": 17,
-      "tradeLabel": "$17B",
-      "tradeN": 17,
+      "tradeLabel": "$12.6B",
+      "tradeN": 12.6,
       "fund": "$982M",
       "round": "2026",
       "notes": "PremierAlts/Crunchbase ~$17B.",
@@ -1470,7 +1554,7 @@
       "m": null,
       "c": 17,
       "cbi": 17.5,
-      "claude": 17.5,
+      "claude": 17.3,
       "addLabel": null,
       "addSrc": null,
       "consensus": 17.3,
@@ -1479,11 +1563,17 @@
       "dispersion": 2.9,
       "cnt": 3,
       "no": 43,
-      "claudeSrc": "anchored to last round: 2026",
+      "claudeSrc": "Series E priced $17.3B, $300M raised (Oct 16, 2025); co-led by Ribbit Capital & a16z",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "Oct 16, 2025",
+        "src": "TechCrunch",
+        "val": "$17.3B",
+        "url": "https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/"
       }
     },
     {
@@ -1512,7 +1602,7 @@
       "dispersion": 0,
       "cnt": 2,
       "no": 44,
-      "claudeSrc": "anchored to last round: —",
+      "claudeSrc": "Secondary: Mubadala-led group bought minority stake from Bain/Parthenon at ~$17B (Dec 2024); Q1'26 IPO targets ~$17B",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z"
@@ -1525,8 +1615,8 @@
       "founded": 2013,
       "valLabel": "$17B",
       "valN": 17,
-      "tradeLabel": "$17B",
-      "tradeN": 17,
+      "tradeLabel": "$50B",
+      "tradeN": 50,
       "fund": "$918M",
       "round": "—",
       "notes": "multiples $31B vs others $17B.",
@@ -1535,7 +1625,7 @@
       "m": 31,
       "c": 17,
       "cbi": 17,
-      "claude": 26,
+      "claude": 50,
       "addLabel": null,
       "addSrc": null,
       "consensus": 17,
@@ -1544,7 +1634,7 @@
       "dispersion": 82.4,
       "cnt": 4,
       "no": 45,
-      "claudeSrc": "secondary ~$26–31B amid IPO chatter",
+      "claudeSrc": "Secondary/old-share sale ~$50B (RMB350B) end-2025; no recent priced primary round (last Series E ~$20B 2021)",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
@@ -1559,8 +1649,8 @@
       "founded": 2016,
       "valLabel": "$17B",
       "valN": 17,
-      "tradeLabel": "$16B",
-      "tradeN": 15.8,
+      "tradeLabel": "$16.8B",
+      "tradeN": 16.8,
       "fund": "$2B",
       "round": "2026",
       "notes": "$15.8-19.4B across four sources.",
@@ -1569,7 +1659,7 @@
       "m": 17,
       "c": 17,
       "cbi": 16.8,
-      "claude": 17,
+      "claude": 16.8,
       "addLabel": null,
       "addSrc": null,
       "consensus": 16.8,
@@ -1578,13 +1668,19 @@
       "dispersion": 7.2,
       "cnt": 5,
       "no": 46,
-      "claudeSrc": "anchored to last round: 2026",
+      "claudeSrc": "Series G priced $16.8B, $450M raised (May 2025); no newer priced round as of Jun 2026",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
         "y": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "May 09, 2025",
+        "src": "TechCrunch",
+        "val": "$16.8B",
+        "url": "https://techcrunch.com/2025/05/09/rippling-raises-450m-at-a-16-8b-valuation-reveals-yc-is-a-customer/"
       }
     },
     {
@@ -1594,8 +1690,8 @@
       "founded": 1983,
       "valLabel": "$18B",
       "valN": 18,
-      "tradeLabel": "$16B",
-      "tradeN": 15.8,
+      "tradeLabel": "$16.5B",
+      "tradeN": 16.5,
       "fund": "$4B",
       "round": "—",
       "notes": "PremierAlts $15.8B vs multiples $18B.",
@@ -1604,7 +1700,7 @@
       "m": 18,
       "c": null,
       "cbi": null,
-      "claude": 17,
+      "claude": 16.5,
       "addLabel": null,
       "addSrc": null,
       "consensus": 16.9,
@@ -1613,7 +1709,7 @@
       "dispersion": 13,
       "cnt": 2,
       "no": 47,
-      "claudeSrc": "anchored to last round: —",
+      "claudeSrc": "EUR 15B (~$16.5B) minority stake sale Apr 2025; Hg/ADIA/CPP buy from EQT/TA (not a priced primary round)",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z"
@@ -2508,7 +2604,7 @@
       "m": 26,
       "c": 26,
       "cbi": 9.8,
-      "claude": 11,
+      "claude": 26,
       "addLabel": null,
       "addSrc": null,
       "consensus": 26,
@@ -2517,11 +2613,17 @@
       "dispersion": 62.3,
       "cnt": 3,
       "no": 75,
-      "claudeSrc": "step-up above $9.8B after Windsurf-team deal",
+      "claudeSrc": "Priced primary round: $1B+ raised at $26B post-money ($25B pre), May 2026, led by Lux/GC/8VC",
       "fetched_at": {
         "m": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "May 27, 2026",
+        "src": "TechCrunch",
+        "val": "$26B",
+        "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/"
       }
     },
     {
@@ -2818,8 +2920,8 @@
       "founded": 2023,
       "valLabel": "$4B",
       "valN": 4,
-      "tradeLabel": "$18B",
-      "tradeN": 18,
+      "tradeLabel": null,
+      "tradeN": null,
       "fund": "$2B",
       "round": "—",
       "notes": "Disputed — PremierAlts $18B vs Crunchbase $4B.",
@@ -2828,7 +2930,7 @@
       "m": 20,
       "c": 20,
       "cbi": 4.3,
-      "claude": 9,
+      "claude": 20,
       "addLabel": null,
       "addSrc": null,
       "consensus": 19,
@@ -2837,12 +2939,18 @@
       "dispersion": 82.6,
       "cnt": 4,
       "no": 85,
-      "claudeSrc": "anchored to last round: —",
+      "claudeSrc": "Priced round $2B at $20B valuation, led by Meituan's Long-Z (May 7, 2026)",
       "fetched_at": {
         "p": "2026-06-03T00:46:08.789Z",
         "m": "2026-06-03T00:46:08.789Z",
         "cbi": "2026-06-03T00:46:08.789Z",
         "c": "2026-06-03T00:46:08.789Z"
+      },
+      "filing": {
+        "date": "May 07, 2026",
+        "src": "TechCrunch",
+        "val": "$20B",
+        "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/"
       }
     },
     {
