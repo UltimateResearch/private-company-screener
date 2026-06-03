@@ -29,11 +29,11 @@
       "no": 1,
       "claudeSrc": "priced ~$1.25T post-xAI absorption; secondary ~$1.75T (Forge)",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -70,11 +70,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai"
       },
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -111,11 +111,11 @@
         "url": "https://openai.com/index/accelerating-the-next-phase-ai/"
       },
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -146,10 +146,10 @@
       "no": 4,
       "claudeSrc": "$480B Nov-25 secondary / $550B Feb-26 stake sale",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -179,7 +179,9 @@
       "cnt": 1,
       "no": 5,
       "claudeSrc": "secondary marks $350–375B (Forbes/Bloomberg, Feb 2026); $500B target was rejected",
-      "fetched_at": {}
+      "fetched_at": {
+        "m": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Stripe",
@@ -215,11 +217,11 @@
         "url": "https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html"
       },
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -256,11 +258,11 @@
         "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-surpasses-4-8b-revenue-run-rate-growing-55-year-over-year"
       },
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -291,9 +293,9 @@
       "no": 8,
       "claudeSrc": "last round ~$126B (Alphabet-led, 2025)",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -324,8 +326,8 @@
       "no": 9,
       "claudeSrc": "multiples ~$79B; Crunchbase $150B is stale (2020)",
       "fetched_at": {
-        "m": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "m": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -355,7 +357,9 @@
       "cnt": 1,
       "no": 10,
       "claudeSrc": "Jio Platforms 2020 round ~$100B; pre-IPO step-up expected",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Revolut",
@@ -385,10 +389,10 @@
       "no": 11,
       "claudeSrc": "2025 blended secondary $75B (not the $100B investor target)",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -406,19 +410,22 @@
       "y": null,
       "p": null,
       "m": 62,
-      "c": null,
+      "c": 9,
       "cbi": null,
       "claude": 65,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 62,
-      "low": 62,
+      "consensus": 35.5,
+      "low": 9,
       "high": 62,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 149.3,
+      "cnt": 2,
       "no": 12,
       "claudeSrc": "comparables / secondary — no recent equity round",
-      "fetched_at": {}
+      "fetched_at": {
+        "m": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Shein",
@@ -448,9 +455,9 @@
       "no": 13,
       "claudeSrc": "~$60–66B, IPO-pending and below peak",
       "fetched_at": {
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -487,11 +494,11 @@
         "url": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise"
       },
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -528,10 +535,10 @@
         "url": "https://www.bloomberg.com/news/articles/2025-08-20/canva-begins-share-sale-at-42-billion-valuation-in-road-to-ipo"
       },
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -562,9 +569,9 @@
       "no": 16,
       "claudeSrc": "priced $40B (2025); CB Insights $11B is stale",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -594,7 +601,9 @@
       "cnt": 1,
       "no": 17,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "p": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Figure",
@@ -630,10 +639,10 @@
         "url": "https://www.figure.ai/news/series-c"
       },
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -663,7 +672,9 @@
       "cnt": 1,
       "no": 19,
       "claudeSrc": "anchored to last round: Pre-IPO",
-      "fetched_at": {}
+      "fetched_at": {
+        "p": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Ripple",
@@ -693,10 +704,10 @@
       "no": 20,
       "claudeSrc": "buyback ~$40B; secondary trades lower (~$19B)",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -714,7 +725,7 @@
       "y": null,
       "p": null,
       "m": 38,
-      "c": null,
+      "c": 38,
       "cbi": null,
       "claude": 30,
       "addLabel": null,
@@ -723,10 +734,13 @@
       "low": 38,
       "high": 38,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 21,
       "claudeSrc": "anchored to last round: 2025 seed",
-      "fetched_at": {}
+      "fetched_at": {
+        "m": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Ramp",
@@ -762,11 +776,11 @@
         "url": "https://www.prnewswire.com/news-releases/ramp-reaches-32-billion-valuation-doubling-revenue-and-customers-in-past-year-302616510.html"
       },
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -797,10 +811,10 @@
       "no": 23,
       "claudeSrc": "~$30–32B last round (2025)",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -831,11 +845,11 @@
       "no": 24,
       "claudeSrc": "anchored to last round: 2024",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -866,8 +880,8 @@
       "no": 25,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "m": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "m": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -898,10 +912,10 @@
       "no": 26,
       "claudeSrc": "~$30B last round; CB Insights $80B looks like an outlier",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -931,7 +945,9 @@
       "cnt": 1,
       "no": 27,
       "claudeSrc": "anchored to last round: 2025 debt",
-      "fetched_at": {}
+      "fetched_at": {
+        "m": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Anysphere (Cursor)",
@@ -961,10 +977,10 @@
       "no": 28,
       "claudeSrc": "priced $29.3B (Nov 2025); $50B round in talks",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -995,10 +1011,10 @@
       "no": 29,
       "claudeSrc": "Meta-deal priced $29B (2025) + modest premium; secondary ~$74B",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1028,7 +1044,9 @@
       "cnt": 1,
       "no": 30,
       "claudeSrc": "anchored to last round: PE",
-      "fetched_at": {}
+      "fetched_at": {
+        "p": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "MiHoYo (HoYoverse)",
@@ -1057,7 +1075,9 @@
       "cnt": 1,
       "no": 31,
       "claudeSrc": "anchored to last round: n/a",
-      "fetched_at": {}
+      "fetched_at": {
+        "m": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "OKX",
@@ -1073,8 +1093,8 @@
       "notes": "CB Insights joined Mar 2026.",
       "y": null,
       "p": null,
-      "m": null,
-      "c": null,
+      "m": 25,
+      "c": 25,
       "cbi": 25,
       "claude": 25,
       "addLabel": null,
@@ -1083,10 +1103,14 @@
       "low": 25,
       "high": 25,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 3,
       "no": 32,
       "claudeSrc": "anchored to last round: 2026",
-      "fetched_at": {}
+      "fetched_at": {
+        "m": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Yangtze Memory",
@@ -1116,9 +1140,9 @@
       "no": 33,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1148,7 +1172,9 @@
       "cnt": 1,
       "no": 34,
       "claudeSrc": "anchored to last round: 2022",
-      "fetched_at": {}
+      "fetched_at": {
+        "m": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Epic Games",
@@ -1178,10 +1204,10 @@
       "no": 35,
       "claudeSrc": "anchored to last round: 2024 · Disney",
       "fetched_at": {
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1218,11 +1244,11 @@
         "url": "https://news.kalshi.com/p/kalshi-raises-1-billion-22-billion-valuation-institutional-demand-surges"
       },
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1253,7 +1279,7 @@
       "no": 37,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1283,7 +1309,9 @@
       "cnt": 1,
       "no": 38,
       "claudeSrc": "anchored to last round: PE",
-      "fetched_at": {}
+      "fetched_at": {
+        "m": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Perplexity",
@@ -1319,11 +1347,11 @@
         "url": "https://tech.yahoo.com/ai/articles/perplexity-finalizes-20-billion-valuation-232758661.html"
       },
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1354,9 +1382,9 @@
       "no": 40,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1387,8 +1415,9 @@
       "no": 41,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1419,9 +1448,9 @@
       "no": 42,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1452,9 +1481,9 @@
       "no": 43,
       "claudeSrc": "anchored to last round: 2026",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1485,8 +1514,8 @@
       "no": 44,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1517,10 +1546,10 @@
       "no": 45,
       "claudeSrc": "secondary ~$26–31B amid IPO chatter",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1551,11 +1580,11 @@
       "no": 46,
       "claudeSrc": "anchored to last round: 2026",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1586,8 +1615,8 @@
       "no": 47,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1618,8 +1647,8 @@
       "no": 48,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1679,9 +1708,9 @@
       "no": 50,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1712,9 +1741,9 @@
       "no": 51,
       "claudeSrc": "anchored to last round: Apr 2026",
       "fetched_at": {
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1745,9 +1774,9 @@
       "no": 52,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1778,8 +1807,9 @@
       "no": 53,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "m": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "m": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1810,9 +1840,9 @@
       "no": 54,
       "claudeSrc": "priced $9.6B (Series E); secondary $14–43B",
       "fetched_at": {
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1843,9 +1873,9 @@
       "no": 55,
       "claudeSrc": "anchored to last round: Jan 2026 · Series C",
       "fetched_at": {
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1875,7 +1905,10 @@
       "cnt": 2,
       "no": 56,
       "claudeSrc": "Series C ~$13–14B (2025)",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Bitmain",
@@ -1904,7 +1937,10 @@
       "cnt": 2,
       "no": 57,
       "claudeSrc": "anchored to last round: n/a",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Crusoe Energy",
@@ -1934,10 +1970,10 @@
       "no": 58,
       "claudeSrc": "priced $10B (Series E, Oct 2025); step-up pending",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -1967,7 +2003,9 @@
       "cnt": 1,
       "no": 59,
       "claudeSrc": "anchored to last round: 2024",
-      "fetched_at": {}
+      "fetched_at": {
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Celonis",
@@ -1984,7 +2022,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 13,
       "cbi": 13,
       "claude": 13,
       "addLabel": null,
@@ -1993,10 +2031,13 @@
       "low": 13,
       "high": 13,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 60,
       "claudeSrc": "anchored to last round: 2022",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Devoted Health",
@@ -2013,19 +2054,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 10,
       "cbi": 12.9,
       "claude": 13,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 12.9,
-      "low": 12.9,
+      "consensus": 11.45,
+      "low": 10,
       "high": 12.9,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 25.3,
+      "cnt": 2,
       "no": 61,
       "claudeSrc": "anchored to last round: 2024",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Shield AI",
@@ -2055,9 +2099,9 @@
       "no": 62,
       "claudeSrc": "priced $12.7B (Series G, Mar 2026)",
       "fetched_at": {
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -2075,19 +2119,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 5,
       "cbi": 12.59,
       "claude": 12,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 12.59,
-      "low": 12.59,
+      "consensus": 8.795,
+      "low": 5,
       "high": 12.59,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 86.3,
+      "cnt": 2,
       "no": 63,
       "claudeSrc": "anchored to last round: 2024",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Polymarket",
@@ -2117,9 +2164,9 @@
       "no": 64,
       "claudeSrc": "anchored to last round: 2026 · Series E",
       "fetched_at": {
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "y": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -2134,7 +2181,7 @@
       "fund": null,
       "round": "2025",
       "notes": "Corporate cards / spend.",
-      "y": null,
+      "y": 4.331,
       "p": null,
       "m": null,
       "c": null,
@@ -2142,14 +2189,17 @@
       "claude": 12,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 12.3,
-      "low": 12.3,
+      "consensus": 8.3155,
+      "low": 4.331,
       "high": 12.3,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 95.8,
+      "cnt": 2,
       "no": 65,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "y": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Thinking Machines Lab",
@@ -2179,9 +2229,9 @@
       "no": 66,
       "claudeSrc": "anchored to last round: Jul 2025 · Seed",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -2199,19 +2249,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": 38,
+      "c": 23,
       "cbi": 12,
       "claude": 12,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 25,
+      "consensus": 17.5,
       "low": 12,
-      "high": 38,
-      "dispersion": 104,
+      "high": 23,
+      "dispersion": 62.9,
       "cnt": 2,
       "no": 67,
       "claudeSrc": "anchored to last round: n/a",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Sierra",
@@ -2227,20 +2280,24 @@
       "notes": "Bret Taylor's agent platform; raising at a step-up.",
       "y": null,
       "p": null,
-      "m": null,
-      "c": null,
+      "m": 16,
+      "c": 16,
       "cbi": 10,
       "claude": 13,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 10,
+      "consensus": 16,
       "low": 10,
-      "high": 10,
-      "dispersion": 0,
-      "cnt": 1,
+      "high": 16,
+      "dispersion": 37.5,
+      "cnt": 3,
       "no": 68,
       "claudeSrc": "raising above the $10B last round",
-      "fetched_at": {}
+      "fetched_at": {
+        "m": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "ElevenLabs",
@@ -2257,7 +2314,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 11,
       "cbi": 11,
       "claude": 12,
       "addLabel": null,
@@ -2266,10 +2323,13 @@
       "low": 11,
       "high": 11,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 69,
       "claudeSrc": "anchored to last round: 2026",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Whatnot",
@@ -2286,19 +2346,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 12,
       "cbi": 11.5,
       "claude": 11.5,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 11.5,
+      "consensus": 11.75,
       "low": 11.5,
-      "high": 11.5,
-      "dispersion": 0,
-      "cnt": 1,
+      "high": 12,
+      "dispersion": 4.3,
+      "cnt": 2,
       "no": 70,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Bending Spoons",
@@ -2315,19 +2378,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 11,
       "cbi": 11.71,
       "claude": 11,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 11.71,
-      "low": 11.71,
+      "consensus": 11.355,
+      "low": 11,
       "high": 11.71,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 6.3,
+      "cnt": 2,
       "no": 71,
       "claudeSrc": "anchored to last round: 2024",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Notion",
@@ -2344,7 +2410,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 11,
       "cbi": 11,
       "claude": 11,
       "addLabel": null,
@@ -2353,10 +2419,13 @@
       "low": 11,
       "high": 11,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 72,
       "claudeSrc": "anchored to last round: 2021",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Oura",
@@ -2373,7 +2442,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 11,
       "cbi": 11,
       "claude": 11,
       "addLabel": null,
@@ -2382,10 +2451,13 @@
       "low": 11,
       "high": 11,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 73,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Bilt Rewards",
@@ -2402,19 +2474,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 11,
       "cbi": 10.75,
       "claude": 11,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 10.75,
+      "consensus": 10.875,
       "low": 10.75,
-      "high": 10.75,
-      "dispersion": 0,
-      "cnt": 1,
+      "high": 11,
+      "dispersion": 2.3,
+      "cnt": 2,
       "no": 74,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Cognition AI",
@@ -2430,20 +2505,24 @@
       "notes": "Devin agent; absorbed Windsurf team.",
       "y": null,
       "p": null,
-      "m": null,
-      "c": null,
+      "m": 26,
+      "c": 26,
       "cbi": 9.8,
       "claude": 11,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 9.8,
+      "consensus": 26,
       "low": 9.8,
-      "high": 9.8,
-      "dispersion": 0,
-      "cnt": 1,
+      "high": 26,
+      "dispersion": 62.3,
+      "cnt": 3,
       "no": 75,
       "claudeSrc": "step-up above $9.8B after Windsurf-team deal",
-      "fetched_at": {}
+      "fetched_at": {
+        "m": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Colossal Biosciences",
@@ -2460,19 +2539,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 10,
       "cbi": 10.2,
       "claude": 10,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 10.2,
-      "low": 10.2,
+      "consensus": 10.1,
+      "low": 10,
       "high": 10.2,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 2,
+      "cnt": 2,
       "no": 76,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Quince",
@@ -2489,19 +2571,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 10,
       "cbi": 10.1,
       "claude": 10,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 10.1,
-      "low": 10.1,
+      "consensus": 10.05,
+      "low": 10,
       "high": 10.1,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 1,
+      "cnt": 2,
       "no": 77,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Gusto",
@@ -2518,19 +2603,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 3,
       "cbi": 10,
       "claude": 10,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 10,
-      "low": 10,
+      "consensus": 6.5,
+      "low": 3,
       "high": 10,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 107.7,
+      "cnt": 2,
       "no": 78,
       "claudeSrc": "anchored to last round: 2022",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Mercor",
@@ -2547,7 +2635,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 10,
       "cbi": 10,
       "claude": 10,
       "addLabel": null,
@@ -2556,10 +2644,13 @@
       "low": 10,
       "high": 10,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 79,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Digital Currency Group",
@@ -2576,7 +2667,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 10,
       "cbi": 10,
       "claude": 9,
       "addLabel": null,
@@ -2585,10 +2676,13 @@
       "low": 10,
       "high": 10,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 80,
       "claudeSrc": "anchored to last round: n/a",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "KuCoin",
@@ -2605,7 +2699,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 10,
       "cbi": 10,
       "claude": 9,
       "addLabel": null,
@@ -2614,10 +2708,13 @@
       "low": 10,
       "high": 10,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 81,
       "claudeSrc": "anchored to last round: n/a",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Chehaoduo",
@@ -2634,7 +2731,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 10,
       "cbi": 10,
       "claude": 9,
       "addLabel": null,
@@ -2643,10 +2740,13 @@
       "low": 10,
       "high": 10,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 82,
       "claudeSrc": "anchored to last round: 2021",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "N26",
@@ -2663,19 +2763,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 9,
       "cbi": 9.23,
       "claude": 9,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 9.23,
-      "low": 9.23,
+      "consensus": 9.115,
+      "low": 9,
       "high": 9.23,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 2.5,
+      "cnt": 2,
       "no": 83,
       "claudeSrc": "anchored to last round: 2021",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Navan",
@@ -2704,7 +2807,9 @@
       "cnt": 1,
       "no": 84,
       "claudeSrc": "anchored to last round: Pre-IPO",
-      "fetched_at": {}
+      "fetched_at": {
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Moonshot AI",
@@ -2734,10 +2839,10 @@
       "no": 85,
       "claudeSrc": "anchored to last round: —",
       "fetched_at": {
-        "p": "2026-06-03T00:18:44.417Z",
-        "m": "2026-06-03T00:18:44.417Z",
-        "cbi": "2026-06-03T00:18:44.417Z",
-        "c": "2026-06-03T00:18:44.417Z"
+        "p": "2026-06-03T00:32:54.185Z",
+        "m": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z"
       }
     },
     {
@@ -2752,22 +2857,26 @@
       "fund": null,
       "round": "2021",
       "notes": "Endpoint management.",
-      "y": null,
+      "y": 4.265,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 9,
       "cbi": 9,
       "claude": 9,
       "addLabel": null,
       "addSrc": null,
       "consensus": 9,
-      "low": 9,
+      "low": 4.265,
       "high": 9,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 52.6,
+      "cnt": 3,
       "no": 86,
       "claudeSrc": "anchored to last round: 2021",
-      "fetched_at": {}
+      "fetched_at": {
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Glean",
@@ -2781,22 +2890,26 @@
       "fund": null,
       "round": "2025",
       "notes": "Work AI / enterprise search.",
-      "y": null,
+      "y": 6.634,
       "p": null,
       "m": null,
-      "c": null,
-      "cbi": null,
+      "c": 7,
+      "cbi": 4.6,
       "claude": 9,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 9,
-      "low": 9,
-      "high": 9,
-      "dispersion": 0,
-      "cnt": 0,
+      "consensus": 6.634,
+      "low": 4.6,
+      "high": 7,
+      "dispersion": 36.2,
+      "cnt": 3,
       "no": 87,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Airwallex",
@@ -2813,19 +2926,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 12,
       "cbi": 8,
       "claude": 9,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 8,
+      "consensus": 10,
       "low": 8,
-      "high": 8,
-      "dispersion": 0,
-      "cnt": 1,
+      "high": 12,
+      "dispersion": 40,
+      "cnt": 2,
       "no": 88,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Groq",
@@ -2839,22 +2955,26 @@
       "fund": null,
       "round": "2025",
       "notes": "LPU inference chips; raising at a step-up.",
-      "y": null,
+      "y": 6.386,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 7,
       "cbi": 6.9,
       "claude": 10,
       "addLabel": null,
       "addSrc": null,
       "consensus": 6.9,
-      "low": 6.9,
-      "high": 6.9,
-      "dispersion": 0,
-      "cnt": 1,
+      "low": 6.386,
+      "high": 7,
+      "dispersion": 8.9,
+      "cnt": 3,
       "no": 89,
       "claudeSrc": "raising at a step-up above the $6.9B last round",
-      "fetched_at": {}
+      "fetched_at": {
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Chainalysis",
@@ -2868,22 +2988,26 @@
       "fund": null,
       "round": "2022",
       "notes": "Blockchain forensics.",
-      "y": null,
+      "y": 1.28,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 2,
       "cbi": 8.6,
       "claude": 8,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 8.6,
-      "low": 8.6,
+      "consensus": 2,
+      "low": 1.28,
       "high": 8.6,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 366,
+      "cnt": 3,
       "no": 90,
       "claudeSrc": "anchored to last round: 2022",
-      "fetched_at": {}
+      "fetched_at": {
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Wayve",
@@ -2900,19 +3024,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 9,
       "cbi": 8.6,
       "claude": 8,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 8.6,
+      "consensus": 8.8,
       "low": 8.6,
-      "high": 8.6,
-      "dispersion": 0,
-      "cnt": 1,
+      "high": 9,
+      "dispersion": 4.5,
+      "cnt": 2,
       "no": 91,
       "claudeSrc": "anchored to last round: 2024",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "FalconX",
@@ -2929,7 +3056,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 8,
       "cbi": 8,
       "claude": 8,
       "addLabel": null,
@@ -2938,10 +3065,13 @@
       "low": 8,
       "high": 8,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 92,
       "claudeSrc": "anchored to last round: 2022",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Fireblocks",
@@ -2958,7 +3088,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 8,
       "cbi": 8,
       "claude": 8,
       "addLabel": null,
@@ -2967,10 +3097,13 @@
       "low": 8,
       "high": 8,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 93,
       "claudeSrc": "anchored to last round: 2022",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Dream11",
@@ -2987,7 +3120,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 8,
       "cbi": 8,
       "claude": 8,
       "addLabel": null,
@@ -2996,10 +3129,13 @@
       "low": 8,
       "high": 8,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 94,
       "claudeSrc": "anchored to last round: 2021",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Lovable",
@@ -3016,19 +3152,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 7,
       "cbi": 6.6,
       "claude": 9,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 6.6,
+      "consensus": 6.8,
       "low": 6.6,
-      "high": 6.6,
-      "dispersion": 0,
-      "cnt": 1,
+      "high": 7,
+      "dispersion": 5.9,
+      "cnt": 2,
       "no": 95,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Razorpay",
@@ -3045,19 +3184,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 7,
       "cbi": 7.5,
       "claude": 8,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 7.5,
-      "low": 7.5,
+      "consensus": 7.25,
+      "low": 7,
       "high": 7.5,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 6.9,
+      "cnt": 2,
       "no": 96,
       "claudeSrc": "anchored to last round: 2021",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "PsiQuantum",
@@ -3071,22 +3213,26 @@
       "fund": null,
       "round": "2025",
       "notes": "Photonic quantum.",
-      "y": null,
+      "y": 5.161,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 7,
       "cbi": 7,
       "claude": 8,
       "addLabel": null,
       "addSrc": null,
       "consensus": 7,
-      "low": 7,
+      "low": 5.161,
       "high": 7,
-      "dispersion": 0,
-      "cnt": 1,
+      "dispersion": 26.3,
+      "cnt": 3,
       "no": 97,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "y": "2026-06-03T00:32:54.185Z",
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Plaid",
@@ -3103,7 +3249,7 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 8,
       "cbi": 8,
       "claude": 7,
       "addLabel": null,
@@ -3112,10 +3258,13 @@
       "low": 8,
       "high": 8,
       "dispersion": 0,
-      "cnt": 1,
+      "cnt": 2,
       "no": 98,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "Cohere",
@@ -3132,19 +3281,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
-      "cbi": null,
+      "c": 7,
+      "cbi": 2,
       "claude": 7,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 7,
-      "low": 7,
+      "consensus": 4.5,
+      "low": 2,
       "high": 7,
-      "dispersion": 0,
-      "cnt": 0,
+      "dispersion": 111.1,
+      "cnt": 2,
       "no": 99,
       "claudeSrc": "anchored to last round: 2025",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     },
     {
       "company": "1Password",
@@ -3161,19 +3313,22 @@
       "y": null,
       "p": null,
       "m": null,
-      "c": null,
+      "c": 7,
       "cbi": 6.8,
       "claude": 7,
       "addLabel": null,
       "addSrc": null,
-      "consensus": 6.8,
+      "consensus": 6.9,
       "low": 6.8,
-      "high": 6.8,
-      "dispersion": 0,
-      "cnt": 1,
+      "high": 7,
+      "dispersion": 2.9,
+      "cnt": 2,
       "no": 100,
       "claudeSrc": "anchored to last round: 2022",
-      "fetched_at": {}
+      "fetched_at": {
+        "c": "2026-06-03T00:32:54.185Z",
+        "cbi": "2026-06-03T00:32:54.185Z"
+      }
     }
   ]
 }

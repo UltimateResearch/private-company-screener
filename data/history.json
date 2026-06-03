@@ -1624,5 +1624,665 @@
       "Glean",
       "Cohere"
     ]
+  },
+  {
+    "date": "2026-06-03",
+    "changes": [
+      {
+        "company": "Binance",
+        "source": "crunchbase",
+        "from": null,
+        "to": 9
+      },
+      {
+        "company": "Project Prometheus",
+        "source": "crunchbase",
+        "from": null,
+        "to": 38
+      },
+      {
+        "company": "OKX",
+        "source": "multiples",
+        "from": null,
+        "to": 25
+      },
+      {
+        "company": "OKX",
+        "source": "crunchbase",
+        "from": null,
+        "to": 25
+      },
+      {
+        "company": "Celonis",
+        "source": "crunchbase",
+        "from": null,
+        "to": 13
+      },
+      {
+        "company": "Devoted Health",
+        "source": "crunchbase",
+        "from": null,
+        "to": 10
+      },
+      {
+        "company": "Faire",
+        "source": "crunchbase",
+        "from": null,
+        "to": 5
+      },
+      {
+        "company": "Brex",
+        "source": "yahoo",
+        "from": null,
+        "to": 4.331
+      },
+      {
+        "company": "JUUL Labs",
+        "source": "crunchbase",
+        "from": 38,
+        "to": 23
+      },
+      {
+        "company": "Sierra",
+        "source": "multiples",
+        "from": null,
+        "to": 16
+      },
+      {
+        "company": "Sierra",
+        "source": "crunchbase",
+        "from": null,
+        "to": 16
+      },
+      {
+        "company": "ElevenLabs",
+        "source": "crunchbase",
+        "from": null,
+        "to": 11
+      },
+      {
+        "company": "Whatnot",
+        "source": "crunchbase",
+        "from": null,
+        "to": 12
+      },
+      {
+        "company": "Bending Spoons",
+        "source": "crunchbase",
+        "from": null,
+        "to": 11
+      },
+      {
+        "company": "Notion",
+        "source": "crunchbase",
+        "from": null,
+        "to": 11
+      },
+      {
+        "company": "Oura",
+        "source": "crunchbase",
+        "from": null,
+        "to": 11
+      },
+      {
+        "company": "Bilt Rewards",
+        "source": "crunchbase",
+        "from": null,
+        "to": 11
+      },
+      {
+        "company": "Cognition AI",
+        "source": "multiples",
+        "from": null,
+        "to": 26
+      },
+      {
+        "company": "Cognition AI",
+        "source": "crunchbase",
+        "from": null,
+        "to": 26
+      },
+      {
+        "company": "Colossal Biosciences",
+        "source": "crunchbase",
+        "from": null,
+        "to": 10
+      },
+      {
+        "company": "Quince",
+        "source": "crunchbase",
+        "from": null,
+        "to": 10
+      },
+      {
+        "company": "Gusto",
+        "source": "crunchbase",
+        "from": null,
+        "to": 3
+      },
+      {
+        "company": "Mercor",
+        "source": "crunchbase",
+        "from": null,
+        "to": 10
+      },
+      {
+        "company": "Digital Currency Group",
+        "source": "crunchbase",
+        "from": null,
+        "to": 10
+      },
+      {
+        "company": "KuCoin",
+        "source": "crunchbase",
+        "from": null,
+        "to": 10
+      },
+      {
+        "company": "Chehaoduo",
+        "source": "crunchbase",
+        "from": null,
+        "to": 10
+      },
+      {
+        "company": "N26",
+        "source": "crunchbase",
+        "from": null,
+        "to": 9
+      },
+      {
+        "company": "Tanium",
+        "source": "yahoo",
+        "from": null,
+        "to": 4.265
+      },
+      {
+        "company": "Tanium",
+        "source": "crunchbase",
+        "from": null,
+        "to": 9
+      },
+      {
+        "company": "Glean",
+        "source": "yahoo",
+        "from": null,
+        "to": 6.634
+      },
+      {
+        "company": "Glean",
+        "source": "crunchbase",
+        "from": null,
+        "to": 7
+      },
+      {
+        "company": "Glean",
+        "source": "cbinsights",
+        "from": null,
+        "to": 4.6
+      },
+      {
+        "company": "Airwallex",
+        "source": "crunchbase",
+        "from": null,
+        "to": 12
+      },
+      {
+        "company": "Groq",
+        "source": "yahoo",
+        "from": null,
+        "to": 6.386
+      },
+      {
+        "company": "Groq",
+        "source": "crunchbase",
+        "from": null,
+        "to": 7
+      },
+      {
+        "company": "Chainalysis",
+        "source": "yahoo",
+        "from": null,
+        "to": 1.28
+      },
+      {
+        "company": "Chainalysis",
+        "source": "crunchbase",
+        "from": null,
+        "to": 2
+      },
+      {
+        "company": "Wayve",
+        "source": "crunchbase",
+        "from": null,
+        "to": 9
+      },
+      {
+        "company": "FalconX",
+        "source": "crunchbase",
+        "from": null,
+        "to": 8
+      },
+      {
+        "company": "Fireblocks",
+        "source": "crunchbase",
+        "from": null,
+        "to": 8
+      },
+      {
+        "company": "Dream11",
+        "source": "crunchbase",
+        "from": null,
+        "to": 8
+      },
+      {
+        "company": "Lovable",
+        "source": "crunchbase",
+        "from": null,
+        "to": 7
+      },
+      {
+        "company": "Razorpay",
+        "source": "crunchbase",
+        "from": null,
+        "to": 7
+      },
+      {
+        "company": "PsiQuantum",
+        "source": "yahoo",
+        "from": null,
+        "to": 5.161
+      },
+      {
+        "company": "PsiQuantum",
+        "source": "crunchbase",
+        "from": null,
+        "to": 7
+      },
+      {
+        "company": "Plaid",
+        "source": "crunchbase",
+        "from": null,
+        "to": 8
+      },
+      {
+        "company": "Cohere",
+        "source": "crunchbase",
+        "from": null,
+        "to": 7
+      },
+      {
+        "company": "Cohere",
+        "source": "cbinsights",
+        "from": null,
+        "to": 2
+      },
+      {
+        "company": "1Password",
+        "source": "crunchbase",
+        "from": null,
+        "to": 7
+      }
+    ],
+    "flags": [
+      {
+        "company": "SpaceX",
+        "dispersion": 87.1,
+        "vals": [
+          1550,
+          1600,
+          1750,
+          1000,
+          400
+        ]
+      },
+      {
+        "company": "Anthropic",
+        "dispersion": 60.6,
+        "vals": [
+          965.001,
+          965,
+          965,
+          965,
+          380
+        ]
+      },
+      {
+        "company": "ByteDance",
+        "dispersion": 98,
+        "vals": [
+          79.4,
+          550,
+          480,
+          480
+        ]
+      },
+      {
+        "company": "Databricks",
+        "dispersion": 43.8,
+        "vals": [
+          158.684,
+          158.7,
+          134,
+          134,
+          100
+        ]
+      },
+      {
+        "company": "Ant Group",
+        "dispersion": 62,
+        "vals": [
+          79,
+          150
+        ]
+      },
+      {
+        "company": "Binance",
+        "dispersion": 149.3,
+        "vals": [
+          62,
+          9
+        ]
+      },
+      {
+        "company": "Anduril",
+        "dispersion": 142.6,
+        "vals": [
+          100.988,
+          99.4,
+          61,
+          61,
+          14
+        ]
+      },
+      {
+        "company": "Canva",
+        "dispersion": 78.6,
+        "vals": [
+          42,
+          65,
+          42,
+          32
+        ]
+      },
+      {
+        "company": "Checkout.com",
+        "dispersion": 72.5,
+        "vals": [
+          40,
+          40,
+          11
+        ]
+      },
+      {
+        "company": "Ripple",
+        "dispersion": 70.7,
+        "vals": [
+          19.1,
+          19.1,
+          40,
+          40
+        ]
+      },
+      {
+        "company": "Fanatics",
+        "dispersion": 44.9,
+        "vals": [
+          17.093,
+          17.1,
+          31,
+          31,
+          31
+        ]
+      },
+      {
+        "company": "VAST Data",
+        "dispersion": 166.7,
+        "vals": [
+          30,
+          30,
+          30,
+          80
+        ]
+      },
+      {
+        "company": "Anysphere (Cursor)",
+        "dispersion": 72,
+        "vals": [
+          50,
+          29,
+          29,
+          29.3
+        ]
+      },
+      {
+        "company": "Scale AI",
+        "dispersion": 207.9,
+        "vals": [
+          74.1,
+          29,
+          29,
+          13.8
+        ]
+      },
+      {
+        "company": "Yangtze Memory",
+        "dispersion": 64.8,
+        "vals": [
+          22.1,
+          37,
+          23
+        ]
+      },
+      {
+        "company": "Epic Games",
+        "dispersion": 74.2,
+        "vals": [
+          15.12,
+          32,
+          23,
+          22.5
+        ]
+      },
+      {
+        "company": "Kalshi",
+        "dispersion": 99.1,
+        "vals": [
+          23.76,
+          23.8,
+          22,
+          22,
+          2
+        ]
+      },
+      {
+        "company": "Genesys",
+        "dispersion": 66.7,
+        "vals": [
+          30,
+          15
+        ]
+      },
+      {
+        "company": "Perplexity",
+        "dispersion": 77,
+        "vals": [
+          19.889,
+          20.4,
+          20,
+          5,
+          20
+        ]
+      },
+      {
+        "company": "Xiaohongshu (RedNote)",
+        "dispersion": 82.4,
+        "vals": [
+          17,
+          31,
+          17,
+          17
+        ]
+      },
+      {
+        "company": "Kraken",
+        "dispersion": 85.9,
+        "vals": [
+          11.739,
+          13,
+          2.92
+        ]
+      },
+      {
+        "company": "Discord",
+        "dispersion": 43.1,
+        "vals": [
+          8.529,
+          15,
+          15,
+          15
+        ]
+      },
+      {
+        "company": "DJI",
+        "dispersion": 46.7,
+        "vals": [
+          15,
+          8,
+          15
+        ]
+      },
+      {
+        "company": "Neuralink",
+        "dispersion": 52.1,
+        "vals": [
+          14.865,
+          10,
+          9.65
+        ]
+      },
+      {
+        "company": "Crusoe Energy",
+        "dispersion": 50.8,
+        "vals": [
+          16.772,
+          16.8,
+          10,
+          10
+        ]
+      },
+      {
+        "company": "Shield AI",
+        "dispersion": 60.2,
+        "vals": [
+          12.787,
+          13,
+          5.3
+        ]
+      },
+      {
+        "company": "Faire",
+        "dispersion": 86.3,
+        "vals": [
+          5,
+          12.59
+        ]
+      },
+      {
+        "company": "Polymarket",
+        "dispersion": 48.9,
+        "vals": [
+          13.404,
+          9,
+          9
+        ]
+      },
+      {
+        "company": "Brex",
+        "dispersion": 95.8,
+        "vals": [
+          4.331,
+          12.3
+        ]
+      },
+      {
+        "company": "Thinking Machines Lab",
+        "dispersion": 333.3,
+        "vals": [
+          50,
+          12,
+          10
+        ]
+      },
+      {
+        "company": "JUUL Labs",
+        "dispersion": 62.9,
+        "vals": [
+          23,
+          12
+        ]
+      },
+      {
+        "company": "Cognition AI",
+        "dispersion": 62.3,
+        "vals": [
+          26,
+          26,
+          9.8
+        ]
+      },
+      {
+        "company": "Gusto",
+        "dispersion": 107.7,
+        "vals": [
+          3,
+          10
+        ]
+      },
+      {
+        "company": "Moonshot AI",
+        "dispersion": 82.6,
+        "vals": [
+          18,
+          20,
+          20,
+          4.3
+        ]
+      },
+      {
+        "company": "Tanium",
+        "dispersion": 52.6,
+        "vals": [
+          4.265,
+          9,
+          9
+        ]
+      },
+      {
+        "company": "Airwallex",
+        "dispersion": 40,
+        "vals": [
+          12,
+          8
+        ]
+      },
+      {
+        "company": "Chainalysis",
+        "dispersion": 366,
+        "vals": [
+          1.28,
+          2,
+          8.6
+        ]
+      },
+      {
+        "company": "Cohere",
+        "dispersion": 111.1,
+        "vals": [
+          7,
+          2
+        ]
+      }
+    ],
+    "noLive": []
   }
 ]
