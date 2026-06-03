@@ -23,8 +23,11 @@ export async function scrapeYahoo() {
       } catch { /* not the payload we want */ }
     });
 
-    await page.goto(URL, { waitUntil: "networkidle", timeout: 60000 });
-    // Give the table a beat to populate, then also parse the rendered DOM as a fallback.
+    // domcontentloaded (not networkidle): Yahoo's ads/trackers keep the network
+    // busy indefinitely, so networkidle times out before our harvest ever runs.
+    await page.goto(URL, { waitUntil: "domcontentloaded", timeout: 60000 });
+    // Wait for the screener table to render (it's XHR-populated), then give it a beat.
+    await page.waitForSelector("table tbody tr", { timeout: 30000 }).catch(() => {});
     await page.waitForTimeout(2500);
 
     // 2) DOM fallback: read the rendered table rows.

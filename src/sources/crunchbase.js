@@ -10,7 +10,9 @@ const URL = "https://news.crunchbase.com/unicorn-company-list/";
 // caught by the other sources, so blanks are simply skipped.
 export async function scrapeCrunchbase() {
   return withPage(async (page) => {
-    await page.goto(URL, { waitUntil: "networkidle", timeout: 60000 });
+    // domcontentloaded (not networkidle): the page's live widgets keep the
+    // network busy, so networkidle times out before the table is read.
+    await page.goto(URL, { waitUntil: "domcontentloaded", timeout: 60000 });
     await page.waitForSelector("table tbody tr", { timeout: 30000 }).catch(() => {});
     const rows = await page.$$eval("table tbody tr", (trs) =>
       trs.map((tr) => Array.from(tr.querySelectorAll("td")).map((c) => c.innerText.trim()))
