@@ -18581,5 +18581,365 @@
       }
     ],
     "noLive": []
+  },
+  {
+    "date": "2026-07-11",
+    "changes": [
+      {
+        "company": "OpenAI",
+        "source": "yahoo",
+        "from": 908.809,
+        "to": 894.326
+      },
+      {
+        "company": "Ripple",
+        "source": "yahoo",
+        "from": 17.912,
+        "to": 17.296
+      },
+      {
+        "company": "Ramp",
+        "source": "yahoo",
+        "from": 45.76,
+        "to": 46.031
+      },
+      {
+        "company": "Kalshi",
+        "source": "yahoo",
+        "from": 23.76,
+        "to": 22
+      },
+      {
+        "company": "Polymarket",
+        "source": "yahoo",
+        "from": 14.125,
+        "to": 13.467
+      },
+      {
+        "company": "PsiQuantum",
+        "source": "yahoo",
+        "from": 4.948,
+        "to": 4.953
+      }
+    ],
+    "flags": [
+      {
+        "company": "SpaceX",
+        "dispersion": 87.1,
+        "vals": [
+          1550,
+          1600,
+          1750,
+          1000,
+          400
+        ]
+      },
+      {
+        "company": "ByteDance",
+        "dispersion": 98,
+        "vals": [
+          79.4,
+          550,
+          480,
+          480
+        ]
+      },
+      {
+        "company": "Databricks",
+        "dispersion": 52.8,
+        "vals": [
+          170.702,
+          170.7,
+          134,
+          134,
+          100
+        ]
+      },
+      {
+        "company": "Ant Group",
+        "dispersion": 62,
+        "vals": [
+          79,
+          150
+        ]
+      },
+      {
+        "company": "Binance",
+        "dispersion": 139.7,
+        "vals": [
+          62,
+          11
+        ]
+      },
+      {
+        "company": "Anduril",
+        "dispersion": 146.3,
+        "vals": [
+          103.227,
+          103.2,
+          61,
+          61,
+          14
+        ]
+      },
+      {
+        "company": "Canva",
+        "dispersion": 137.8,
+        "vals": [
+          42,
+          65,
+          14,
+          32
+        ]
+      },
+      {
+        "company": "Checkout.com",
+        "dispersion": 72.5,
+        "vals": [
+          40,
+          40,
+          11
+        ]
+      },
+      {
+        "company": "Ripple",
+        "dispersion": 78.4,
+        "vals": [
+          17.296,
+          17.9,
+          40,
+          40
+        ]
+      },
+      {
+        "company": "Fanatics",
+        "dispersion": 44.9,
+        "vals": [
+          17.093,
+          17.1,
+          31,
+          31,
+          31
+        ]
+      },
+      {
+        "company": "VAST Data",
+        "dispersion": 166.7,
+        "vals": [
+          30,
+          30,
+          30,
+          80
+        ]
+      },
+      {
+        "company": "Anysphere (Cursor)",
+        "dispersion": 72,
+        "vals": [
+          50,
+          29,
+          29,
+          29.3
+        ]
+      },
+      {
+        "company": "Scale AI",
+        "dispersion": 207.9,
+        "vals": [
+          74.1,
+          29,
+          29,
+          13.8
+        ]
+      },
+      {
+        "company": "Yangtze Memory",
+        "dispersion": 64.8,
+        "vals": [
+          22.1,
+          37,
+          23
+        ]
+      },
+      {
+        "company": "Epic Games",
+        "dispersion": 87.7,
+        "vals": [
+          12.039,
+          32,
+          23,
+          22.5
+        ]
+      },
+      {
+        "company": "Genesys",
+        "dispersion": 66.7,
+        "vals": [
+          30,
+          15
+        ]
+      },
+      {
+        "company": "Xiaohongshu (RedNote)",
+        "dispersion": 82.4,
+        "vals": [
+          17,
+          31,
+          17,
+          17
+        ]
+      },
+      {
+        "company": "Kraken",
+        "dispersion": 84.5,
+        "vals": [
+          11.934,
+          13,
+          2.92
+        ]
+      },
+      {
+        "company": "Discord",
+        "dispersion": 76.5,
+        "vals": [
+          8.529,
+          15,
+          6,
+          15
+        ]
+      },
+      {
+        "company": "DJI",
+        "dispersion": 46.7,
+        "vals": [
+          15,
+          8,
+          15
+        ]
+      },
+      {
+        "company": "Neuralink",
+        "dispersion": 52.1,
+        "vals": [
+          14.865,
+          10,
+          9.65
+        ]
+      },
+      {
+        "company": "Crusoe Energy",
+        "dispersion": 91.3,
+        "vals": [
+          26.783,
+          26.8,
+          10,
+          10
+        ]
+      },
+      {
+        "company": "Celonis",
+        "dispersion": 105.9,
+        "vals": [
+          4,
+          13
+        ]
+      },
+      {
+        "company": "Faire",
+        "dispersion": 86.3,
+        "vals": [
+          5,
+          12.59
+        ]
+      },
+      {
+        "company": "Polymarket",
+        "dispersion": 49.6,
+        "vals": [
+          13.467,
+          9,
+          9
+        ]
+      },
+      {
+        "company": "Brex",
+        "dispersion": 95.8,
+        "vals": [
+          4.331,
+          12.3
+        ]
+      },
+      {
+        "company": "Thinking Machines Lab",
+        "dispersion": 333.3,
+        "vals": [
+          50,
+          12,
+          10
+        ]
+      },
+      {
+        "company": "JUUL Labs",
+        "dispersion": 50,
+        "vals": [
+          20,
+          12
+        ]
+      },
+      {
+        "company": "Gusto",
+        "dispersion": 107.7,
+        "vals": [
+          3,
+          10
+        ]
+      },
+      {
+        "company": "Moonshot AI",
+        "dispersion": 82.6,
+        "vals": [
+          18,
+          20,
+          20,
+          4.3
+        ]
+      },
+      {
+        "company": "Tanium",
+        "dispersion": 52.6,
+        "vals": [
+          4.265,
+          9,
+          9
+        ]
+      },
+      {
+        "company": "Chainalysis",
+        "dispersion": 181.9,
+        "vals": [
+          1.323,
+          4,
+          8.6
+        ]
+      },
+      {
+        "company": "PsiQuantum",
+        "dispersion": 72.1,
+        "vals": [
+          4.953,
+          10,
+          7
+        ]
+      },
+      {
+        "company": "Cohere",
+        "dispersion": 111.1,
+        "vals": [
+          7,
+          2
+        ]
+      }
+    ],
+    "noLive": []
   }
 ]
